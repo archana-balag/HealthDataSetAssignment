@@ -1,0 +1,1001 @@
+Name,Age,Age Group,Gender,Race,Blood Group,Temperature,Blood Pressure (Systolic),Blood Pressure (Diastolic),Height,Weight,Health Concerns,Needs Medical Attention
+Kevin Wong,29.0,Adult,Female,Black,AB+,97.9,178,84,183.19,73.15,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Mr. David Meyers,84.0,Adult,Male,White,A-,98.1,130,88,170.96,92.36,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Diabetes, Obesity",1
+Robert Sanchez DDS,26.0,Adult,Male,Hispanic,A+,97.9,121,101,146.33,77.41,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Obesity, Anxiety",1
+Brent Moore,42.0,Adult,Male,Black,B+,98.1,169,112,197.98,113.4,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Alicia Kennedy,24.0,Adult,Male,Black,A+,98.0,100,61,149.24,79.9,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes",1
+John Moore,71.0,Adult,Female,Hispanic,AB+,97.2,105,98,170.06,56.46,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Allergies, Obesity",1
+Kari Wolfe,74.0,Adult,Female,White,AB+,98.8,141,93,198.66,80.81,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Lauren Williamson,48.0,Adult,Male,Black,AB+,99.0,119,90,128.31,45.98,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Asthma, Anxiety",1
+David Monroe,82.0,Adult,Male,Asian,B-,97.1,149,85,189.28,85.38,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Asthma",1
+Andrea Rogers,1.0,Child,Male,Asian,AB-,98.3,164,90,199.13,138.19,General Checkup,0
+Robert Rangel,12.0,Child,Male,White,B-,98.4,140,95,186.45,87.23,"Vaccination, Growth and development, Asthma, Diabetes",1
+Diana Ramirez,75.0,Adult,Male,White,O+,97.1,148,95,198.97,112.1,General Checkup,0
+Michelle Smith,39.0,Adult,Male,Hispanic,A-,97.5,149,84,162.55,68.55,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Jon Monroe,55.0,Adult,Female,Black,O+,98.8,115,118,183.71,88.86,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Obesity",1
+Joseph Ward,50.0,Adult,Female,Black,O+,97.6,146,99,199.46,40.17,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies",1
+Elizabeth Jones,40.0,Adult,Female,Other,O+,98.9,163,113,195.94,126.91,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes",1
+Kelly Garcia,23.0,Adult,Female,Black,B-,98.7,143,108,169.11,60.83,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies",1
+Zachary Edwards,61.0,Adult,Female,Other,B-,98.1,95,61,178.78,112.25,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Jonathan Duffy,67.0,Adult,Female,Other,A+,97.3,93,95,154.62,61.31,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Kyle Lee,74.0,Adult,Male,White,B+,97.8,156,112,198.02,117.93,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Obesity",1
+Stephanie George,19.0,Adult,Male,Hispanic,O+,97.4,152,95,132.59,131.56,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Lauren Nguyen,75.0,Adult,Female,Hispanic,AB-,97.7,143,120,189.07,144.81,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Antonio Lawrence,35.0,Adult,Male,White,A+,98.2,159,71,149.82,146.17,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes",1
+Roberto Terry,21.0,Adult,Male,Black,O-,98.1,134,108,137.68,106.52,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Allergies, Allergies",1
+Kristen Krueger,20.0,Adult,Female,Black,B+,98.8,92,77,128.9,106.92,General Checkup,0
+Susan Harris,68.0,Adult,Female,Other,A+,97.5,168,67,161.25,57.54,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Hypertension, Anxiety",1
+Mr. Frederick Raymond,64.0,Adult,Female,Other,AB+,98.3,144,77,175.23,87.05,General Checkup,0
+Rebecca Joseph,42.0,Adult,Male,Asian,A+,98.0,135,69,125.57,144.81,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Obesity, Depression",1
+Daniel Mcneil,4.0,Child,Male,Other,B-,97.5,124,115,133.17,132.87,General Checkup,0
+Kevin Fisher,47.0,Adult,Female,Asian,O+,98.7,119,60,169.37,95.91,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Obesity, Allergies",1
+Randy Stone,21.0,Adult,Female,Other,A+,98.1,142,114,190.53,89.73,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Caitlyn Casey,84.0,Adult,Male,Asian,AB+,98.3,180,102,187.0,66.59,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Angela Carroll,33.0,Adult,Female,White,O-,99.0,132,95,191.23,56.43,General Checkup,0
+Victoria Miles,29.0,Adult,Male,Hispanic,AB+,98.6,118,117,188.22,92.95,General Checkup,0
+Douglas Watson,1.0,Child,Male,White,B+,98.3,164,85,141.01,86.6,"Vaccination, Growth and development",1
+George Byrd,38.0,Adult,Female,White,AB+,98.8,154,98,171.7,105.48,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Melissa Armstrong,24.0,Adult,Female,Asian,A+,97.6,136,76,158.88,128.26,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Tami Chambers,75.0,Adult,Male,Other,A+,98.5,158,116,135.07,42.68,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+John Nichols,17.0,Teenager,Female,Black,AB-,98.8,98,116,159.59,116.41,"Acne and skin issues, Mental health challenges, Sexual health education",1
+Richard Flores,63.0,Adult,Female,Black,AB+,97.9,106,89,178.81,138.66,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Anxiety",1
+Emily Greer,6.0,Child,Male,White,B+,98.1,174,83,154.31,91.04,"Vaccination, Growth and development, Obesity",1
+James Day,54.0,Adult,Female,Asian,B+,97.9,128,63,152.87,56.09,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Depression",1
+Sara Jackson,26.0,Adult,Female,Other,B+,98.4,104,90,192.83,100.05,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Anxiety",1
+Eric Foley,51.0,Adult,Male,Black,A+,98.8,120,117,153.01,124.27,General Checkup,0
+Benjamin Gonzalez,57.0,Adult,Female,Hispanic,A-,97.1,116,93,135.79,84.59,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies",1
+Billy Bryant,81.0,Adult,Female,White,B-,98.2,116,74,177.41,110.95,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Vincent Davis,42.0,Adult,Female,Asian,AB+,97.9,142,95,171.95,108.4,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Allergies",1
+William Jenkins,17.0,Teenager,Female,Other,AB-,97.1,134,68,149.72,128.74,General Checkup,0
+Scott Schmidt,38.0,Adult,Female,Hispanic,A-,98.9,137,65,153.02,60.84,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Meagan Herrera,36.0,Adult,Male,Black,O+,98.6,142,108,160.2,127.68,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Allergies",1
+Robert Adams,88.0,Adult,Male,Hispanic,A-,97.4,139,92,170.56,90.73,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Hypertension, Diabetes",1
+Amanda Vasquez,24.0,Adult,Female,Black,A+,98.1,121,82,189.93,46.94,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Gina Wright,63.0,Adult,Male,Hispanic,B+,98.0,134,64,143.0,122.22,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Allergies",1
+Nathan Spencer,38.0,Adult,Female,Asian,A-,97.1,121,119,148.6,69.14,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Lonnie Robles,3.0,Child,Male,Asian,B+,97.1,122,77,183.59,106.49,"Vaccination, Growth and development, Allergies, Allergies",1
+Ashley Page,31.0,Adult,Male,Asian,A-,98.6,148,66,147.23,106.43,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Anxiety",1
+Lisa Ochoa,16.0,Teenager,Male,Black,AB+,97.8,145,98,155.56,96.24,"Acne and skin issues, Mental health challenges, Sexual health education, Asthma, Diabetes",1
+Carol Hill,72.0,Adult,Female,White,O+,98.2,151,111,181.27,102.46,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Lawrence Todd,44.0,Adult,Male,Hispanic,AB-,97.5,166,113,149.52,144.49,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Asthma, Hypertension",1
+Benjamin Davis,2.0,Child,Female,White,A-,98.1,108,88,148.02,47.94,"Vaccination, Growth and development, Asthma",1
+Jennifer Hicks,90.0,Adult,Male,Asian,AB+,97.3,105,105,177.58,41.36,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Melissa Jackson,39.0,Adult,Female,Black,B-,97.6,172,117,171.9,84.26,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Julie Davis,,Unknown,Female,Black,A-,97.6,167,119,186.31,80.19,"Hypertension, Allergies",1
+Matthew Fox,68.0,Adult,Male,White,B+,98.2,110,79,148.82,109.65,General Checkup,0
+Michelle Turner,79.0,Adult,Female,Hispanic,A-,97.3,90,74,161.93,128.38,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Diabetes, Asthma",1
+Michael Chan,16.0,Teenager,Female,Black,B-,97.9,130,111,121.88,41.73,General Checkup,0
+Sydney Bryan,88.0,Adult,Female,Black,B+,97.6,103,62,158.54,123.27,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety",1
+Lisa Sloan,22.0,Adult,Male,White,A-,98.6,129,92,178.29,112.92,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Adam Nelson,39.0,Adult,Female,Black,A+,97.6,122,116,138.11,81.29,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Thomas Pollard,14.0,Teenager,Female,Asian,A-,98.5,179,81,153.31,50.98,General Checkup,0
+Patricia Luna,74.0,Adult,Male,White,O+,97.1,141,62,171.9,52.87,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Leah Ibarra,10.0,Child,Female,Black,AB-,98.1,92,117,195.82,146.1,"Vaccination, Growth and development",1
+Deanna Goodman,90.0,Adult,Female,Black,AB+,97.9,174,85,171.99,58.58,General Checkup,0
+Mariah Jones,37.0,Adult,Male,Other,A-,98.9,102,112,133.86,136.99,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Victoria Graves,33.0,Adult,Male,Asian,AB-,98.2,174,120,150.46,121.2,General Checkup,0
+Jennifer Liu,21.0,Adult,Female,Black,O+,97.8,105,106,121.65,126.03,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Depression",1
+Richard Sloan,86.0,Adult,Male,Asian,B-,97.0,100,78,165.18,100.52,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Alex Juarez,48.0,Adult,Female,Asian,B+,98.7,124,80,130.61,99.18,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Allergies",1
+Patrick Dorsey,,Unknown,Male,White,AB-,97.0,175,108,146.96,77.88,,1
+Pam Stone,36.0,Adult,Male,Hispanic,A+,98.9,109,97,170.13,112.22,General Checkup,0
+Nicholas Barnett,43.0,Adult,Male,Other,O-,99.0,134,99,132.61,93.85,General Checkup,0
+Valerie Cox,37.0,Adult,Male,Black,B+,98.2,113,108,169.78,123.22,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Anxiety, Allergies",1
+Katherine Alvarez,60.0,Adult,Male,Other,AB-,97.3,175,96,129.97,92.58,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Timothy Johnson,8.0,Child,Female,White,B+,98.4,166,73,129.92,50.58,General Checkup,0
+Alexander Dean,19.0,Adult,Male,Asian,B+,98.1,120,109,121.84,143.75,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Obesity",1
+Shelly Dixon,66.0,Adult,Male,Asian,A-,97.8,162,95,184.08,86.79,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies",1
+Charlene Parker,42.0,Adult,Male,Asian,A+,99.0,105,80,151.32,70.51,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Obesity",1
+Rebecca Oconnell,23.0,Adult,Female,Hispanic,O+,97.0,172,75,159.39,40.88,General Checkup,0
+Heidi Black,82.0,Adult,Female,Hispanic,O-,98.0,180,94,127.12,76.06,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety",1
+George Marshall,57.0,Adult,Male,White,B+,97.2,173,100,170.6,44.0,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Anxiety, Anxiety",1
+Timothy Miller,12.0,Child,Female,Hispanic,B+,97.4,126,119,135.34,115.58,General Checkup,0
+Robert Vega,32.0,Adult,Male,Black,O-,97.3,118,119,128.06,113.4,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Mathew Thomas,24.0,Adult,Male,White,A+,97.7,100,91,124.01,42.52,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Depression",1
+Stephanie Jacobson,40.0,Adult,Female,White,AB-,97.9,161,64,132.37,106.86,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Allergies",1
+Jennifer Watson,,Unknown,Male,Other,AB+,97.8,116,114,195.71,65.64,Depression,1
+Jason Hanson,78.0,Adult,Female,White,AB+,98.4,147,99,189.32,91.58,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+John Pena,42.0,Adult,Male,Hispanic,B-,98.0,115,77,174.43,47.94,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Depression, Depression",1
+Elizabeth Gibson,45.0,Adult,Male,Hispanic,O-,99.0,169,62,186.18,59.96,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Anxiety, Asthma",1
+Jamie Gomez,46.0,Adult,Female,Black,AB-,98.6,94,110,153.06,57.06,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Anxiety, Depression",1
+Jamie Richard,5.0,Child,Male,Other,O+,98.6,104,66,136.22,121.03,General Checkup,0
+Joann Doyle,28.0,Adult,Female,Hispanic,O+,97.4,164,107,177.83,70.96,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Allergies",1
+James Sharp,87.0,Adult,Female,Hispanic,B-,98.3,134,109,192.53,134.91,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Diabetes, Diabetes",1
+Patricia Smith,63.0,Adult,Female,White,A+,98.4,90,108,187.85,42.93,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes",1
+Vincent Bennett,70.0,Adult,Male,White,A+,98.9,144,119,162.0,136.67,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Kevin Johnson,3.0,Child,Male,Other,A-,97.4,118,82,180.36,74.95,"Vaccination, Growth and development, Anxiety, Asthma",1
+Kimberly White,66.0,Adult,Male,Black,A-,98.1,104,70,168.18,125.19,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Hypertension, Anxiety",1
+Tyler Chavez,30.0,Adult,Female,Hispanic,O-,97.1,152,94,199.48,41.85,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Diabetes, Hypertension",1
+Amanda Stephens,79.0,Adult,Female,Asian,AB+,98.6,164,68,136.72,56.54,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Hypertension",1
+Angie Smith,87.0,Adult,Female,Black,O-,98.1,147,120,128.65,119.08,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Anxiety",1
+Joseph Long,87.0,Adult,Male,White,A-,98.1,130,81,127.57,73.51,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Obesity",1
+Krista Jones,,Unknown,Male,Black,O+,97.3,132,60,165.81,125.68,Hypertension,1
+Meghan Calderon,10.0,Child,Male,Asian,O-,98.8,140,77,149.27,65.59,"Vaccination, Growth and development",0
+Danielle Henson,76.0,Adult,Male,Black,B-,97.3,107,104,160.96,55.79,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+David Stanley,38.0,Adult,Female,Hispanic,A-,97.4,125,94,136.26,118.91,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Linda Williams,74.0,Adult,Male,Hispanic,A+,98.9,152,98,152.31,85.4,General Checkup,0
+Edward Montoya,22.0,Adult,Male,Asian,O+,98.0,91,95,193.93,138.01,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Depression",1
+Jeffery Meyer,74.0,Adult,Male,Other,B-,97.1,148,94,179.65,116.46,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Allergies, Allergies",1
+Barbara Kelley DDS,65.0,Adult,Female,Hispanic,A+,97.4,154,75,132.63,88.35,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Michael Lester,39.0,Adult,Female,Other,AB-,97.9,111,70,172.33,144.77,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Stacy Wright MD,38.0,Adult,Male,Other,O-,97.1,103,100,174.98,99.79,General Checkup,0
+Nicholas Pittman,83.0,Adult,Female,Hispanic,AB+,98.9,126,96,166.19,42.82,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Diabetes, Obesity",1
+Linda Benson,48.0,Adult,Female,Black,AB-,97.0,122,99,126.56,113.98,General Checkup,0
+Laura Maddox,85.0,Adult,Female,Asian,O-,97.3,128,99,135.28,44.87,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Hypertension, Allergies",1
+Jeff Rivas,54.0,Adult,Female,Asian,A-,98.6,109,105,184.35,48.34,General Checkup,0
+Annette Vargas,61.0,Adult,Male,Black,O-,98.2,129,112,173.7,116.65,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Linda Robbins,30.0,Adult,Female,Black,B-,98.3,136,84,180.39,83.53,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Anxiety, Hypertension",1
+Lynn Mitchell,35.0,Adult,Male,Black,AB+,98.2,169,80,186.84,147.22,General Checkup,0
+Laura Henderson,90.0,Adult,Male,White,AB+,97.5,132,89,188.02,76.62,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Anxiety, Diabetes",1
+Melissa Conley,31.0,Adult,Female,Other,B-,98.7,107,65,165.86,113.0,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Garrett Jacobson,8.0,Child,Female,White,A+,97.7,156,117,132.08,108.59,"Vaccination, Growth and development, Depression, Hypertension",1
+Gina Nguyen,21.0,Adult,Female,Other,B-,97.5,107,67,179.19,115.23,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety",1
+Tammy West,44.0,Adult,Male,Hispanic,O+,98.6,121,81,129.06,129.76,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Asthma, Hypertension",1
+Susan Long,49.0,Adult,Female,Other,A+,98.4,134,71,174.63,148.16,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Chad Rivera,,Unknown,Male,Asian,O-,97.3,92,117,151.4,105.04,"Asthma, Obesity",1
+Douglas Singh,53.0,Adult,Male,Black,O+,99.0,126,60,158.84,102.44,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Barry Salas,11.0,Child,Female,Other,A+,97.3,162,118,193.82,124.51,"Vaccination, Growth and development, Diabetes",1
+Shelia Bailey,78.0,Adult,Male,Asian,A-,97.6,177,87,194.84,140.89,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Mary Griffith,31.0,Adult,Female,Hispanic,AB+,98.2,114,98,198.61,147.09,General Checkup,0
+Caleb Robinson,47.0,Adult,Female,Asian,AB+,98.2,119,98,185.79,111.49,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Obesity",1
+Richard Wall,42.0,Adult,Female,Other,AB-,97.0,110,76,183.02,136.13,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Hypertension, Depression",1
+Charles Ryan,18.0,Teenager,Male,Other,B-,97.5,126,120,179.45,130.93,"Acne and skin issues, Mental health challenges, Sexual health education, Obesity",1
+Erin Watson,25.0,Adult,Female,Other,O-,98.1,121,118,149.13,44.47,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Allergies",1
+Kelly Johnson,1.0,Child,Male,Black,B-,97.1,117,95,130.63,111.91,"Vaccination, Growth and development, Diabetes",1
+Jennifer Thomas,26.0,Adult,Male,Asian,B+,97.0,136,60,180.64,137.34,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Daniel Blackwell,24.0,Adult,Female,Asian,B+,98.9,149,80,125.62,57.83,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Dawn Rubio,20.0,Adult,Male,Hispanic,A+,97.7,110,112,185.59,135.29,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies",1
+Megan Mayer,53.0,Adult,Female,Asian,A+,98.2,100,101,190.52,129.18,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Donna Manning,10.0,Child,Male,Black,B-,98.7,141,104,169.35,141.29,"Vaccination, Growth and development, Diabetes, Anxiety",1
+David Mack MD,,Unknown,Male,Other,AB+,97.5,149,72,162.68,103.45,"Anxiety, Depression, Depression",1
+Courtney Norris,13.0,Teenager,Female,Asian,A+,98.6,101,83,154.87,77.0,General Checkup,0
+Jose Richardson,77.0,Adult,Male,Hispanic,AB-,98.1,104,109,158.65,61.63,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Allergies, Asthma",1
+Christopher Harvey,,Unknown,Male,Black,O+,98.3,92,62,177.71,117.64,"Depression, Anxiety",1
+Justin Williams,,Unknown,Male,White,A-,99.0,111,101,156.42,109.69,"Asthma, Diabetes",1
+Miguel Hunt,27.0,Adult,Female,Other,A+,97.2,141,60,132.36,134.06,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Timothy Gonzalez,74.0,Adult,Female,Other,A+,97.2,98,86,194.19,138.48,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Diabetes, Depression",1
+Brooke Velazquez,63.0,Adult,Female,Other,A+,97.5,140,66,171.59,85.67,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Asthma",1
+Andrea Nixon,3.0,Child,Female,Asian,A+,98.2,147,80,125.1,115.48,"Vaccination, Growth and development",1
+Meredith Logan,78.0,Adult,Male,White,A-,98.2,98,105,162.82,56.34,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Christina Kim,55.0,Adult,Male,Asian,O-,98.2,137,85,185.44,78.64,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Allergies",1
+Samuel Hunt,80.0,Adult,Male,Black,B-,98.4,150,86,129.61,97.87,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Courtney King,30.0,Adult,Female,Black,O+,98.4,135,69,180.63,60.9,General Checkup,0
+Abigail Vega,88.0,Adult,Male,Hispanic,B-,98.6,125,81,157.25,118.83,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Bonnie Graham,36.0,Adult,Female,Hispanic,O+,98.7,115,73,155.97,40.77,General Checkup,0
+Steven Williams,46.0,Adult,Female,Asian,AB+,97.1,129,73,182.67,149.59,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies",1
+Shannon Bailey,82.0,Adult,Female,White,A-,98.8,135,120,191.08,131.98,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Obesity, Hypertension",1
+Richard Brown,45.0,Adult,Male,Asian,A+,97.8,142,61,168.07,122.93,General Checkup,0
+Christopher Garcia,66.0,Adult,Female,Black,O+,97.8,176,83,161.62,88.96,General Checkup,0
+Susan Wilkinson,41.0,Adult,Female,Asian,AB-,97.6,140,64,149.07,65.17,General Checkup,0
+Mr. Christopher Swanson,1.0,Child,Male,Other,B-,97.8,124,87,172.69,127.84,"Vaccination, Growth and development, Allergies, Asthma, Depression",1
+Rachel Hale,7.0,Child,Male,Hispanic,O+,97.6,136,87,123.17,71.66,"Vaccination, Growth and development, Anxiety",0
+Anthony Velasquez,37.0,Adult,Female,White,O-,97.8,102,99,199.29,63.51,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Anxiety, Diabetes",1
+Martha Smith,23.0,Adult,Female,Black,O-,98.4,125,114,166.98,144.85,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Asthma",1
+Andrew Townsend,88.0,Adult,Male,Hispanic,O+,97.9,145,114,144.01,64.74,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Anxiety, Allergies",1
+Jennifer Gonzalez,32.0,Adult,Male,Black,O-,98.0,159,65,138.3,111.11,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Obesity, Anxiety",1
+Carl Cohen,67.0,Adult,Female,Hispanic,O+,98.6,97,75,155.42,53.31,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety",0
+Yvonne Edwards,48.0,Adult,Male,Asian,O+,98.7,117,119,140.58,75.34,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Brittany Butler,,Unknown,Male,Other,A-,98.1,137,60,133.65,115.44,,1
+Kaylee Hernandez,28.0,Adult,Female,Asian,A+,97.7,161,99,156.39,85.72,General Checkup,0
+Jack Oliver,81.0,Adult,Female,Asian,O+,98.9,117,67,120.21,51.94,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Obesity",1
+Nathan Anthony,17.0,Teenager,Male,Asian,A-,98.4,129,79,197.37,47.43,"Acne and skin issues, Mental health challenges, Sexual health education",0
+Nathan Greene,47.0,Adult,Female,Other,AB+,98.0,160,98,134.74,131.0,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Pamela Phelps,18.0,Teenager,Male,White,B+,98.5,146,100,199.26,41.31,"Acne and skin issues, Mental health challenges, Sexual health education, Allergies",1
+Susan Shepard,64.0,Adult,Male,Hispanic,A+,98.5,124,77,191.97,115.04,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Diabetes, Anxiety",1
+Justin Potts,24.0,Adult,Male,Hispanic,O+,98.2,109,107,153.16,66.29,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Wesley Le,85.0,Adult,Female,White,AB-,98.2,170,93,163.01,99.79,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Thomas Stuart,47.0,Adult,Female,Hispanic,B-,97.9,140,66,145.83,96.39,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Allergies, Anxiety",1
+Casey Lawson,33.0,Adult,Female,Black,O+,97.7,143,120,156.23,54.84,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Anxiety, Allergies",1
+Renee Arias,69.0,Adult,Female,Black,AB-,98.4,173,119,174.02,112.33,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Anxiety, Anxiety",1
+Mary Anderson,25.0,Adult,Male,Black,B-,97.7,152,92,188.59,146.59,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Anxiety, Asthma",1
+Eric Rose,41.0,Adult,Male,Black,AB+,98.6,114,82,158.71,123.27,General Checkup,0
+Veronica Boone,90.0,Adult,Male,White,O+,98.4,145,74,124.3,137.73,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Billy Michael,1.0,Child,Male,Black,B-,98.5,170,65,187.89,149.46,General Checkup,0
+Angela Oconnor,,Unknown,Male,Asian,O-,97.2,124,84,184.33,130.18,"Obesity, Obesity, Obesity",1
+Jennifer Ayala,81.0,Adult,Male,White,AB+,98.9,133,68,174.7,110.29,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Asthma, Hypertension",1
+Luis Ayala,81.0,Adult,Male,Black,AB-,98.4,179,61,152.81,43.71,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Asthma",1
+Andrea Lopez,68.0,Adult,Male,Other,O-,98.5,96,86,162.23,54.32,General Checkup,0
+Brandon Tran,32.0,Adult,Male,White,AB-,97.4,98,106,121.41,57.86,General Checkup,0
+Olivia Massey,83.0,Adult,Female,White,AB-,98.7,170,98,158.27,52.73,General Checkup,0
+Martin Mcdonald,17.0,Teenager,Male,Hispanic,B+,98.7,121,106,182.39,125.09,"Acne and skin issues, Mental health challenges, Sexual health education",1
+Benjamin Jones,55.0,Adult,Male,Asian,AB-,98.0,96,114,140.95,40.61,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Amy Martin,18.0,Teenager,Female,White,AB-,97.6,129,83,138.3,136.49,"Acne and skin issues, Mental health challenges, Sexual health education, Diabetes, Asthma",1
+James Anderson,78.0,Adult,Female,Other,B+,97.9,108,101,127.75,96.77,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Brandon Chambers,48.0,Adult,Male,Asian,A+,98.9,165,99,172.7,62.23,General Checkup,0
+Nicole Harris,2.0,Child,Male,Other,O-,97.5,163,77,179.0,72.1,"Vaccination, Growth and development, Depression",1
+Julian Hudson,54.0,Adult,Female,White,B+,98.2,117,66,165.04,56.54,General Checkup,0
+Leslie Grant,21.0,Adult,Male,Hispanic,B+,98.4,120,93,184.46,127.34,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Diabetes, Obesity",1
+Justin Duran,78.0,Adult,Male,Hispanic,AB+,97.1,171,109,159.43,58.58,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Hypertension, Hypertension",1
+Robert Cook,58.0,Adult,Female,White,AB-,98.8,175,63,189.66,63.1,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Obesity, Obesity",1
+April Hart,85.0,Adult,Female,Asian,O-,97.7,121,98,132.22,41.12,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Allergies",1
+Thomas Sweeney,,Unknown,Male,Other,AB-,97.9,136,115,120.92,79.93,"Allergies, Asthma",1
+Brian Gibson,54.0,Adult,Male,Hispanic,O+,97.1,157,84,188.41,84.46,General Checkup,0
+Corey Johnson,16.0,Teenager,Female,Hispanic,O-,98.1,173,60,193.23,107.43,"Acne and skin issues, Mental health challenges, Sexual health education, Hypertension, Depression, Anxiety",1
+Allison Roberts,20.0,Adult,Male,Black,AB+,97.6,101,103,125.61,51.06,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Corey Saunders,24.0,Adult,Female,Hispanic,O-,97.0,140,120,168.37,123.06,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity",1
+Stephanie Tran,2.0,Child,Female,Other,O+,98.0,122,120,126.41,77.3,General Checkup,0
+Angela Coleman,14.0,Teenager,Female,Hispanic,B-,97.6,165,72,167.96,49.52,"Acne and skin issues, Mental health challenges, Sexual health education, Diabetes, Depression",1
+Sara Ellis,9.0,Child,Male,Black,B+,98.9,105,94,161.55,122.52,"Vaccination, Growth and development",1
+Linda Porter,25.0,Adult,Male,Asian,O+,97.6,124,116,149.18,131.92,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Allergies",1
+Diane Medina,84.0,Adult,Female,Black,AB+,98.4,98,105,129.12,48.87,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Allergies, Allergies",1
+Sandra Arellano,80.0,Adult,Male,Black,O+,97.2,154,106,175.92,78.49,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Hypertension, Asthma",1
+Whitney Gilmore,,Unknown,Male,Asian,A+,97.6,179,114,194.15,89.35,,1
+Sharon Smith,,Unknown,Male,Hispanic,AB-,98.8,163,92,184.34,97.13,General Checkup,0
+Tricia Brock,,Unknown,Male,Black,A-,98.9,133,71,173.4,129.13,"Allergies, Asthma",1
+Kenneth Harrison,9.0,Child,Male,Other,AB+,97.6,176,117,184.82,65.66,"Vaccination, Growth and development",1
+Jessica Romero,73.0,Adult,Female,White,O-,97.9,145,96,132.03,42.25,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Diabetes, Anxiety",1
+Michelle Price,41.0,Adult,Female,Black,B-,97.7,99,111,137.51,97.63,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Veronica Hickman,16.0,Teenager,Female,Asian,O-,97.3,162,71,143.58,102.21,"Acne and skin issues, Mental health challenges, Sexual health education, Asthma",1
+Lauren White,,Unknown,Female,Black,B+,97.0,154,85,166.83,119.16,,1
+Latoya Anderson,44.0,Adult,Male,Asian,O+,97.0,160,69,122.37,139.17,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Hypertension",1
+Nicholas Blevins,53.0,Adult,Female,White,AB-,97.9,98,78,173.47,82.72,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Anxiety",1
+James Walton,76.0,Adult,Female,Black,AB-,97.9,177,120,126.79,144.16,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Obesity, Diabetes",1
+Sarah Stevenson,,Unknown,Female,Other,B+,97.8,100,105,165.86,135.23,General Checkup,0
+Betty Vazquez,12.0,Child,Female,Other,O-,98.8,149,71,130.89,77.56,"Vaccination, Growth and development, Obesity, Anxiety, Obesity",1
+Marcus Poole,28.0,Adult,Female,Hispanic,AB+,98.9,136,80,120.04,79.68,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Asthma, Anxiety",1
+Joseph Welch,89.0,Adult,Male,Other,O+,97.7,127,79,154.58,80.16,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Diabetes",1
+Adam Wolfe,13.0,Teenager,Male,White,O-,97.9,147,83,168.42,59.12,"Acne and skin issues, Mental health challenges, Sexual health education",1
+Anthony Dean,18.0,Teenager,Female,Asian,A-,97.5,101,60,194.58,60.6,"Acne and skin issues, Mental health challenges, Sexual health education, Obesity, Asthma",1
+Sabrina Daniels,85.0,Adult,Male,Black,O+,98.1,118,112,195.68,41.02,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Robert Torres,62.0,Adult,Male,Hispanic,AB-,98.7,168,64,170.06,102.43,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Sandra Medina,57.0,Adult,Male,Asian,B+,98.8,173,117,126.83,133.87,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Adrienne Dunn,29.0,Adult,Male,Other,O+,98.4,149,94,194.73,133.97,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Anxiety, Depression",1
+Kimberly Robinson,65.0,Adult,Female,Hispanic,B+,98.6,93,103,157.63,95.75,General Checkup,0
+Alan Rogers III,43.0,Adult,Female,White,A-,98.8,146,98,140.99,56.34,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+William Washington,59.0,Adult,Male,Hispanic,AB-,97.0,109,85,195.78,122.05,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Anxiety, Diabetes",1
+Anna Kelly,40.0,Adult,Male,White,A+,97.2,160,61,128.69,80.83,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Allergies, Allergies",1
+Robert Burns,43.0,Adult,Male,Other,O+,97.5,91,119,167.39,106.68,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Depression, Obesity",1
+Christine Spencer,64.0,Adult,Male,Other,A+,97.7,175,82,181.29,145.7,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Asthma, Allergies",1
+Wesley Green,,Unknown,Female,Asian,B+,98.7,98,116,197.85,62.97,"Diabetes, Depression",1
+Jeffrey Young Jr.,23.0,Adult,Male,Other,A+,98.4,156,83,179.98,126.41,General Checkup,0
+Alison Martinez,89.0,Adult,Female,Hispanic,AB-,97.0,139,119,128.27,103.31,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+William Hines,36.0,Adult,Female,White,A+,97.5,142,77,137.67,118.41,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Dr. Michael Williams,47.0,Adult,Female,Hispanic,B-,98.5,131,67,172.35,108.03,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Obesity, Anxiety",1
+Sherry Sanders,33.0,Adult,Female,Hispanic,B-,98.5,120,77,150.71,141.94,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Diabetes",1
+Melissa Owens,85.0,Adult,Male,Asian,O-,98.7,94,103,179.08,136.56,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Obesity",1
+Nancy Horton,26.0,Adult,Female,Hispanic,B-,98.1,139,66,151.81,138.77,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Jeremy Smith,,Unknown,Male,Hispanic,O+,97.9,174,88,131.4,99.29,,1
+Kimberly Shaffer,26.0,Adult,Male,White,AB-,97.2,173,66,140.73,123.96,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Hypertension, Hypertension",1
+Rachael Ortiz,56.0,Adult,Female,Other,O+,98.8,134,88,194.4,132.95,General Checkup,0
+Charles Lopez,12.0,Child,Male,Other,O+,97.2,107,62,157.62,43.98,General Checkup,0
+Joanne Wilson,26.0,Adult,Female,Other,A-,98.0,158,97,189.76,81.65,General Checkup,0
+Christian Sanchez,4.0,Child,Male,Asian,A-,98.5,160,100,188.59,66.23,"Vaccination, Growth and development",1
+Reginald Kelley,81.0,Adult,Male,Other,B+,98.7,135,95,173.62,61.44,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Anxiety",1
+Carlos Alvarado,28.0,Adult,Male,Asian,A-,97.5,166,91,158.85,148.4,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety",1
+Kathleen Friedman,41.0,Adult,Male,Other,B-,98.2,180,66,130.52,48.02,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Depression, Depression",1
+Amanda Watkins,37.0,Adult,Female,Other,B+,97.5,143,118,129.57,101.92,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Paul Obrien,66.0,Adult,Male,Hispanic,O-,98.5,105,89,130.2,65.86,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Theresa Carter,7.0,Child,Male,Other,B+,98.2,121,111,123.61,128.27,"Vaccination, Growth and development",1
+Philip Anthony,64.0,Adult,Female,Asian,O-,97.4,180,120,170.06,77.38,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Allergies, Hypertension",1
+Jason Moran,55.0,Adult,Male,Other,AB-,98.0,114,111,122.39,108.17,General Checkup,0
+Jennifer Nolan,,Unknown,Male,Hispanic,O+,98.3,101,85,120.69,41.66,,0
+Michael Mckee,9.0,Child,Female,White,O-,98.4,106,87,167.32,123.53,"Vaccination, Growth and development, Asthma, Anxiety, Diabetes",1
+Mark Stone,11.0,Child,Female,Other,A+,97.3,112,111,153.04,116.65,General Checkup,0
+Amy Romero,33.0,Adult,Female,Black,AB+,97.1,146,68,199.87,135.25,General Checkup,0
+Michael Olson,9.0,Child,Female,White,B-,97.7,125,74,171.04,147.0,General Checkup,0
+Sean Garrison,74.0,Adult,Male,Other,B+,97.2,104,66,134.71,101.57,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Jessica Allen,42.0,Adult,Female,Black,A-,98.2,178,62,197.63,70.77,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Linda Moore,2.0,Child,Female,Other,AB+,98.1,159,79,139.93,60.21,"Vaccination, Growth and development, Allergies",1
+Andrea Adams,38.0,Adult,Female,White,B+,98.1,126,71,186.46,82.48,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Diabetes",1
+Catherine Reyes,50.0,Adult,Male,Black,A+,98.5,168,112,138.01,95.35,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Jasmine Hunt,81.0,Adult,Female,Hispanic,A-,98.4,176,91,125.55,104.7,General Checkup,0
+Meghan Harris,66.0,Adult,Female,White,O+,98.3,152,66,151.67,88.85,General Checkup,0
+Anthony Allen,43.0,Adult,Male,Hispanic,O+,98.5,175,66,134.76,145.35,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity",1
+Leah Good,60.0,Adult,Male,White,B-,98.6,110,62,185.54,79.59,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Christina Coleman,69.0,Adult,Male,Other,AB+,97.5,113,107,138.13,80.35,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes",1
+Michael Cooley,63.0,Adult,Male,Hispanic,A+,98.6,99,63,164.09,60.83,General Checkup,0
+Laura Lambert,32.0,Adult,Male,Asian,B-,99.0,172,114,126.78,118.17,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Asthma",1
+Kelly Moore,47.0,Adult,Male,Hispanic,A-,98.7,102,95,165.0,108.37,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+James Martin,60.0,Adult,Male,Hispanic,A+,98.9,174,118,170.83,85.79,General Checkup,0
+Michael Holloway,10.0,Child,Male,White,A+,97.2,114,69,120.69,49.01,"Vaccination, Growth and development, Allergies, Diabetes, Depression",1
+Jason Guerrero,80.0,Adult,Female,Hispanic,AB-,98.6,117,116,179.43,70.32,General Checkup,0
+Carolyn Castaneda,26.0,Adult,Female,White,A-,97.2,114,74,121.71,112.7,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Depression, Diabetes",1
+Reginald Escobar,,Unknown,Female,Black,AB-,98.7,174,81,158.76,135.28,General Checkup,0
+Elizabeth Hudson,71.0,Adult,Female,White,A+,97.9,114,89,130.06,136.58,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Allergies, Asthma",1
+Carrie Gonzalez,48.0,Adult,Female,White,O+,98.0,147,97,132.2,148.76,General Checkup,0
+Diane Farley,72.0,Adult,Female,Black,O+,98.1,164,77,139.71,43.47,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Michael Lynch,56.0,Adult,Male,Black,O-,98.7,102,65,140.67,110.26,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Jennifer Lawrence,71.0,Adult,Male,Hispanic,O-,99.0,153,117,123.01,44.4,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Obesity",1
+Stacey Smith,72.0,Adult,Male,Hispanic,AB-,98.6,134,80,121.47,122.3,General Checkup,0
+Nicole Russell,51.0,Adult,Female,Black,B+,97.6,169,80,157.48,41.48,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies",1
+Justin Campbell,56.0,Adult,Male,Hispanic,AB-,97.8,114,61,139.9,120.67,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity",1
+James Perez,10.0,Child,Female,Asian,AB-,98.5,177,69,178.8,128.45,"Vaccination, Growth and development",1
+Elizabeth Harrington,2.0,Child,Female,White,AB+,98.9,143,72,177.83,123.61,General Checkup,0
+James Logan,24.0,Adult,Male,Hispanic,A-,98.9,106,93,136.06,103.36,General Checkup,0
+Gary Hall,52.0,Adult,Female,Other,AB+,98.2,93,114,163.42,44.72,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Obesity",1
+Tonya Kirk PhD,60.0,Adult,Male,Other,O+,98.1,97,60,134.11,143.16,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity",1
+Garrett Powell,35.0,Adult,Male,Hispanic,B+,98.5,97,75,145.19,95.32,General Checkup,0
+Jennifer Nelson,37.0,Adult,Male,Black,A+,98.5,157,66,194.54,105.71,General Checkup,0
+Alice Lee,43.0,Adult,Female,Black,A+,98.0,179,67,158.91,119.22,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Paul Walton,9.0,Child,Male,Hispanic,B-,97.3,144,62,138.74,136.12,General Checkup,0
+William Sanchez,57.0,Adult,Female,Other,B+,97.9,171,109,196.21,51.95,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Hypertension",1
+Duane Hamilton,53.0,Adult,Female,Other,A+,97.9,90,67,192.81,95.6,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Carolyn Hodge,38.0,Adult,Male,Hispanic,B+,98.3,139,90,128.11,96.7,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Depression",1
+Michael Mcgrath,8.0,Child,Male,Asian,A+,97.4,131,111,139.9,117.45,General Checkup,0
+Amber Schwartz,76.0,Adult,Female,Asian,AB-,98.3,150,96,134.47,66.07,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Obesity, Anxiety",1
+Lauren Buckley,4.0,Child,Female,Black,O+,98.7,99,76,141.31,135.81,"Vaccination, Growth and development, Asthma",1
+Christina Lopez,33.0,Adult,Male,Hispanic,AB+,97.5,127,117,122.75,51.64,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Anxiety, Anxiety",1
+Darrell Hicks,42.0,Adult,Female,Black,AB+,98.4,139,99,191.02,59.45,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Asthma",1
+Margaret Estrada,30.0,Adult,Male,Hispanic,B+,97.1,140,95,156.56,146.91,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Donald Aguilar,23.0,Adult,Male,Hispanic,A+,97.7,97,63,146.83,136.67,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Hypertension",1
+Juan Patterson MD,67.0,Adult,Female,Hispanic,O+,98.2,180,91,138.61,59.33,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Diabetes",1
+Ashley Johnson,31.0,Adult,Female,Other,AB-,97.5,108,117,139.25,78.23,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Depression, Obesity",1
+Sharon Roman,76.0,Adult,Male,White,A+,97.0,178,74,144.19,57.93,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Asthma",1
+Andrew Barry,85.0,Adult,Female,Black,A+,98.2,162,82,189.96,55.74,General Checkup,0
+Theresa Fuller,70.0,Adult,Male,Asian,AB+,97.4,93,104,125.58,48.14,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Depression",1
+Justin Coleman,52.0,Adult,Female,Asian,B+,98.1,148,82,150.71,116.24,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Alice Booth,2.0,Child,Female,Hispanic,B+,98.3,122,96,140.59,102.98,"Vaccination, Growth and development, Obesity, Anxiety",1
+Casey Hughes,28.0,Adult,Female,Hispanic,A+,98.7,110,61,193.63,140.82,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Hypertension, Diabetes",1
+Barbara Ramirez,84.0,Adult,Male,Other,O+,99.0,92,98,122.57,130.48,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Allergies, Depression",1
+Zachary Garcia,2.0,Child,Female,Black,B-,98.7,114,78,193.24,41.6,"Vaccination, Growth and development, Hypertension",1
+Evan Adams,74.0,Adult,Male,Hispanic,B+,98.8,108,84,172.29,46.11,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Depression, Hypertension",1
+Nicole Smith,24.0,Adult,Female,Other,B-,98.7,155,78,138.68,44.84,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies",1
+Harry Wallace,43.0,Adult,Male,Black,B+,98.5,177,62,135.09,143.16,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Depression, Allergies",1
+Robert Brown,27.0,Adult,Female,Other,O-,97.6,147,101,165.31,81.68,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Anxiety",1
+Carrie Alvarez,61.0,Adult,Female,White,O+,98.0,141,60,154.81,89.62,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Rachel Vega,,Unknown,Male,Hispanic,AB+,97.9,153,90,192.74,127.57,,1
+Daniel Davis,85.0,Adult,Female,Black,AB-,98.5,152,63,148.09,51.68,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Michael Phillips,70.0,Adult,Male,Black,A-,97.7,165,91,180.55,94.85,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Allergies, Diabetes",1
+David Wong,45.0,Adult,Male,Black,O-,98.1,129,96,186.27,102.91,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Patricia Morris,51.0,Adult,Female,Asian,B+,97.7,163,118,175.91,121.46,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Obesity",1
+Javier Bowman,32.0,Adult,Male,White,AB-,98.1,180,111,162.88,105.85,General Checkup,0
+Kyle Clark,81.0,Adult,Female,Black,B-,98.3,176,91,157.41,50.93,General Checkup,0
+Don Gould,30.0,Adult,Male,Black,A+,97.0,107,83,152.0,106.12,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Hypertension, Anxiety",1
+Grant Grant,56.0,Adult,Male,Other,B+,98.1,139,111,169.83,122.2,General Checkup,0
+Alexis Johnson,11.0,Child,Female,Other,O+,97.5,122,119,182.89,46.71,"Vaccination, Growth and development",1
+Angela Brown,56.0,Adult,Female,Other,AB-,97.9,170,102,167.95,108.57,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Hypertension",1
+Natalie Lewis,,Unknown,Male,Hispanic,B+,98.5,115,85,122.32,119.42,Diabetes,1
+Jonathan Hughes,48.0,Adult,Male,Asian,AB+,98.0,146,85,189.82,109.94,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Mark Durham,56.0,Adult,Female,Other,O+,98.8,144,65,193.77,68.4,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Obesity, Diabetes",1
+Stephanie Wilson,67.0,Adult,Female,White,O-,97.7,113,90,181.63,92.9,General Checkup,0
+David Sanchez,29.0,Adult,Male,Black,B+,98.0,100,67,127.33,78.53,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Brittany Wilson,56.0,Adult,Female,Other,AB+,98.1,174,104,156.36,92.31,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes",1
+Don Wood,27.0,Adult,Female,Other,A+,98.3,142,86,185.68,122.21,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Chelsea Walker,1.0,Child,Male,White,AB+,98.9,159,64,143.63,144.42,"Vaccination, Growth and development, Allergies, Asthma",1
+Juan Harris,25.0,Adult,Male,Hispanic,O-,97.8,119,91,191.76,83.22,General Checkup,0
+David Harrison,34.0,Adult,Female,Black,A-,98.7,177,76,143.68,148.75,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Anxiety, Diabetes",1
+Carmen Adams MD,65.0,Adult,Female,Black,AB+,98.2,148,74,139.91,97.92,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Diabetes, Diabetes",1
+Dawn Kim,,Unknown,Female,White,O-,97.8,129,92,162.28,42.71,Obesity,1
+Catherine Hernandez,29.0,Adult,Male,Other,AB+,97.5,179,95,173.52,85.82,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Ashley Byrd,73.0,Adult,Male,Asian,B+,97.8,169,92,175.95,112.79,General Checkup,0
+Joseph Lewis,10.0,Child,Male,Other,A+,98.4,140,67,189.11,120.75,"Vaccination, Growth and development",1
+Kevin Guzman,40.0,Adult,Male,Hispanic,A+,98.4,178,105,175.97,106.64,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Allergies",1
+Kimberly Obrien,55.0,Adult,Male,Black,A+,97.3,99,64,132.24,125.13,General Checkup,0
+Martin Brown,,Unknown,Male,Asian,AB+,97.7,113,85,144.73,53.92,Hypertension,1
+Ryan Patel,29.0,Adult,Female,Asian,O-,97.3,122,105,145.44,125.77,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Depression, Asthma",1
+Jennifer Henry,10.0,Child,Female,White,O+,98.5,180,84,173.48,63.64,"Vaccination, Growth and development, Diabetes, Diabetes",1
+James Mitchell,1.0,Child,Male,Other,O+,98.7,111,73,147.07,82.85,"Vaccination, Growth and development",0
+Melissa Figueroa,47.0,Adult,Female,White,AB-,98.1,128,83,169.27,107.25,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Asthma, Hypertension",1
+Nathaniel Foster,52.0,Adult,Female,Black,AB+,98.3,101,69,167.08,137.82,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Christie Smith,47.0,Adult,Male,Black,O+,98.9,99,91,126.86,54.94,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Asthma",1
+Dana Smith,18.0,Teenager,Female,Black,AB+,98.3,128,65,184.75,105.72,"Acne and skin issues, Mental health challenges, Sexual health education, Anxiety, Depression, Depression",1
+Isaac Thomas,46.0,Adult,Female,Other,A+,97.8,116,115,159.67,121.07,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes",1
+Amanda Pierce,12.0,Child,Male,Asian,B+,97.1,111,78,120.31,146.07,"Vaccination, Growth and development, Anxiety, Hypertension, Asthma",1
+Jennifer Johnson,9.0,Child,Female,Hispanic,O+,98.2,97,90,157.84,147.34,"Vaccination, Growth and development",1
+Aaron Stout,81.0,Adult,Female,Hispanic,B+,98.6,145,85,186.72,69.58,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Roy Coleman,67.0,Adult,Male,Black,O-,98.3,137,119,120.99,116.09,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Hypertension",1
+Jessica Evans,72.0,Adult,Male,Other,AB-,97.6,179,65,161.31,41.64,General Checkup,0
+Angela Moore,68.0,Adult,Male,Other,AB+,98.4,179,62,198.27,141.83,General Checkup,0
+Jennifer Bailey,73.0,Adult,Male,Other,O-,98.1,165,67,167.21,60.27,General Checkup,0
+Ryan Bennett,33.0,Adult,Female,White,AB+,98.2,107,104,120.63,137.91,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Amanda Webster,65.0,Adult,Female,Asian,O+,98.4,140,72,171.72,83.03,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Sarah Carroll,51.0,Adult,Male,Black,AB-,98.5,179,97,175.46,73.44,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Suzanne Olson,18.0,Teenager,Male,Black,O-,97.0,110,72,141.6,132.81,"Acne and skin issues, Mental health challenges, Sexual health education",1
+Carrie Solis,48.0,Adult,Female,Other,A-,97.8,167,116,187.47,124.94,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Todd Walker,44.0,Adult,Male,Other,B+,97.7,141,119,148.05,122.65,General Checkup,0
+Madison Hayes,47.0,Adult,Female,Black,A-,97.7,102,70,139.73,47.47,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Allergies",1
+Micheal Pace,59.0,Adult,Female,Other,A+,98.2,103,65,146.84,124.02,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Anxiety, Obesity",1
+Jennifer Allen,48.0,Adult,Male,Other,O+,97.0,174,91,155.27,108.0,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Brittany Williams,1.0,Child,Female,Asian,A+,97.3,143,76,193.98,62.11,"Vaccination, Growth and development",1
+Collin Ray,3.0,Child,Male,Other,AB-,98.0,147,110,196.62,105.84,"Vaccination, Growth and development",1
+Lindsay Rush,82.0,Adult,Male,Hispanic,O-,98.6,146,110,148.77,96.78,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Lawrence Alexander,40.0,Adult,Female,Black,O-,97.6,111,107,149.89,145.96,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Allergies",1
+Mark Clark MD,67.0,Adult,Male,Other,A-,97.2,146,65,144.42,92.78,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Depression, Obesity",1
+Kyle Hall,44.0,Adult,Male,White,B+,97.7,117,70,144.26,119.91,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Allergies, Anxiety",1
+Tonya Williams,82.0,Adult,Female,Black,B+,97.2,91,62,181.52,74.79,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Elizabeth Patterson,8.0,Child,Male,White,B+,97.1,162,92,188.85,147.07,"Vaccination, Growth and development, Diabetes, Anxiety, Anxiety",1
+Courtney Ford,21.0,Adult,Female,Asian,B+,98.6,152,60,130.77,86.27,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Dawn Davis,52.0,Adult,Female,Asian,AB-,99.0,97,99,191.52,100.78,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Anxiety, Asthma",1
+Jacob Rosales,82.0,Adult,Male,White,B-,97.4,172,61,144.56,145.54,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Hypertension, Allergies",1
+Kurt Ross,22.0,Adult,Male,Black,AB+,98.3,150,73,136.03,87.46,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Diabetes, Allergies",1
+Deborah Rodriguez,,Unknown,Female,Other,A-,98.3,140,102,159.56,87.45,,1
+Debra Moore,,Unknown,Female,Black,AB+,97.1,159,81,130.01,144.02,,1
+Benjamin Carter,27.0,Adult,Male,White,B-,98.0,175,62,197.07,141.72,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Hypertension",1
+Gary Peters,17.0,Teenager,Male,Other,AB-,98.1,113,61,134.57,43.68,"Acne and skin issues, Mental health challenges, Sexual health education, Asthma",1
+Samantha Neal,,Unknown,Male,Asian,O-,98.8,101,62,133.7,114.55,General Checkup,0
+Kyle Nguyen,26.0,Adult,Female,Asian,A-,97.0,102,72,163.43,74.65,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Teresa Rogers,85.0,Adult,Female,Black,B-,98.3,151,69,192.62,40.88,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Anxiety, Allergies",1
+Olivia Thompson,26.0,Adult,Female,Black,AB+,97.9,165,92,177.07,144.54,General Checkup,0
+Stacy Simmons,74.0,Adult,Male,Black,O+,97.5,110,112,180.11,73.93,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Brett Ramsey,12.0,Child,Male,Asian,B+,97.3,139,106,124.14,83.58,"Vaccination, Growth and development",1
+Alyssa Goodwin,49.0,Adult,Male,Asian,O-,98.8,173,92,165.9,48.65,General Checkup,0
+Brian Powell,11.0,Child,Male,Hispanic,A-,97.9,140,64,196.84,107.48,"Vaccination, Growth and development, Diabetes",1
+William Graham,52.0,Adult,Female,Asian,O-,98.6,152,64,191.24,80.03,General Checkup,0
+Brian Davis,65.0,Adult,Male,Black,O-,97.2,150,67,182.86,85.86,General Checkup,0
+Sarah Payne,83.0,Adult,Female,Black,AB-,97.6,176,88,185.79,142.56,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Jason Baker,88.0,Adult,Male,Black,O+,97.6,120,73,173.84,77.25,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Asthma, Hypertension",1
+Karen Lewis,57.0,Adult,Male,Other,O-,97.6,131,114,165.31,139.61,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Allergies, Anxiety",1
+Tammy Farley,71.0,Adult,Female,White,O+,97.2,148,75,175.53,102.57,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Joann Blake,28.0,Adult,Female,Other,AB+,97.3,164,62,161.99,143.17,General Checkup,0
+Amy Nichols,81.0,Adult,Female,Black,AB+,98.7,145,102,199.07,129.56,General Checkup,0
+Harold Johnson,84.0,Adult,Female,White,B-,98.6,95,80,181.73,102.37,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes",1
+Thomas Smith,18.0,Teenager,Female,Hispanic,O+,97.8,116,106,164.63,109.6,General Checkup,0
+Alison Martinez,36.0,Adult,Male,Asian,B-,98.8,137,87,176.22,116.91,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Diabetes, Obesity",1
+Nicole Myers,34.0,Adult,Female,Other,A-,97.3,104,86,166.62,93.86,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Michaela Rose,29.0,Adult,Male,Asian,O+,97.4,143,77,148.28,86.04,General Checkup,0
+Dr. Roger Mcfarland MD,15.0,Teenager,Male,Asian,AB+,98.7,169,120,153.37,89.28,General Checkup,0
+Janice Becker,60.0,Adult,Female,White,O+,98.3,95,102,181.29,129.25,General Checkup,0
+John Thomas,18.0,Teenager,Male,Other,O-,97.8,95,67,134.87,147.79,"Acne and skin issues, Mental health challenges, Sexual health education, Diabetes, Asthma, Depression",1
+Wendy Stevenson,44.0,Adult,Female,Asian,B-,98.8,173,80,199.33,68.28,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Anxiety",1
+Leslie Tyler,24.0,Adult,Female,Hispanic,B-,98.5,173,119,167.27,94.73,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Tina Torres,37.0,Adult,Female,Black,A+,98.7,146,94,138.05,127.55,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Sherri Johnson,17.0,Teenager,Male,Asian,B+,97.2,114,68,160.08,118.2,"Acne and skin issues, Mental health challenges, Sexual health education, Hypertension",1
+Robin Davis,13.0,Teenager,Female,Hispanic,AB+,98.5,150,93,167.7,87.92,"Acne and skin issues, Mental health challenges, Sexual health education, Allergies",1
+Karen Hall,50.0,Adult,Male,Asian,AB+,98.7,179,109,143.07,62.01,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Diabetes, Allergies",1
+David Horne,73.0,Adult,Female,White,AB+,98.8,148,86,194.22,56.13,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Lisa Horn DVM,57.0,Adult,Male,Asian,B+,98.5,120,113,138.92,106.92,General Checkup,0
+Denise Bauer,18.0,Teenager,Male,Asian,AB+,98.9,130,91,180.0,89.36,General Checkup,0
+Christy Smith,65.0,Adult,Male,Asian,AB-,97.6,105,118,192.63,54.74,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Yesenia Lee,48.0,Adult,Male,Black,B+,97.3,174,93,167.78,133.55,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Anxiety, Allergies",1
+Haley Mendoza,45.0,Adult,Male,Black,AB-,98.6,92,112,152.36,141.91,General Checkup,0
+April Torres,61.0,Adult,Male,Asian,AB-,97.7,147,66,131.47,141.35,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Diabetes, Asthma",1
+Kelsey Baldwin,18.0,Teenager,Male,White,O-,98.9,127,66,132.92,40.43,"Acne and skin issues, Mental health challenges, Sexual health education, Anxiety",0
+Willie Edwards,43.0,Adult,Female,Black,A-,97.8,150,65,168.38,56.59,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Asthma",1
+Janet Sanchez,13.0,Teenager,Male,Asian,A-,97.8,158,92,136.14,91.38,General Checkup,0
+Amy Franco,56.0,Adult,Male,White,A-,97.9,179,118,190.91,131.57,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Obesity, Obesity",1
+Tiffany Bautista,90.0,Adult,Female,Other,B-,97.9,146,86,157.08,105.66,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Diabetes, Allergies",1
+Eric Maldonado,45.0,Adult,Female,Black,A+,97.4,146,84,190.65,143.64,General Checkup,0
+Dustin Vazquez,8.0,Child,Female,White,B+,97.2,109,97,158.49,133.37,"Vaccination, Growth and development, Obesity, Depression, Asthma",1
+Amy Scott,20.0,Adult,Female,White,AB+,98.1,132,98,121.36,107.46,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Laura Powell,13.0,Teenager,Male,Asian,O-,98.2,147,80,195.25,57.96,"Acne and skin issues, Mental health challenges, Sexual health education, Depression, Hypertension",1
+Benjamin Briggs,71.0,Adult,Male,Other,B+,97.8,112,96,134.72,96.26,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Samantha Sanders,83.0,Adult,Male,Asian,A+,97.5,109,63,142.07,73.88,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Obesity, Hypertension",1
+Amanda Baker,74.0,Adult,Female,White,B-,97.1,135,103,168.49,64.72,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Eric Walton,9.0,Child,Male,Asian,O+,97.7,99,87,157.93,100.75,"Vaccination, Growth and development, Anxiety",1
+Kyle Harris,70.0,Adult,Male,Black,B+,98.3,120,71,161.92,125.26,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety",1
+Morgan Sherman,40.0,Adult,Female,Other,O-,98.0,152,90,131.54,136.61,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Depression, Asthma",1
+Jason Scott,62.0,Adult,Male,Black,A-,98.4,124,95,167.25,71.21,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Helen Lewis,77.0,Adult,Male,Black,A+,97.8,114,68,143.64,60.38,General Checkup,0
+Jessica Johnson,6.0,Child,Female,Asian,O+,99.0,175,81,124.34,69.66,"Vaccination, Growth and development, Allergies",1
+Cathy Ellis,,Unknown,Female,Other,O+,98.3,164,107,174.35,63.59,"Obesity, Allergies",1
+Heather Phillips,38.0,Adult,Female,White,A+,99.0,149,91,150.87,120.87,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Allergies, Anxiety",1
+Melissa Chan,66.0,Adult,Male,Asian,A-,98.4,174,68,199.12,79.36,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Asthma, Allergies",1
+Joshua Yoder,81.0,Adult,Male,Black,AB-,98.7,174,88,173.08,94.11,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Charles Stephens,43.0,Adult,Male,Other,O+,98.9,149,60,138.55,50.76,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Anita Murphy,18.0,Teenager,Female,White,AB+,98.7,126,89,188.17,120.92,"Acne and skin issues, Mental health challenges, Sexual health education",1
+Jessica Alvarado,54.0,Adult,Female,White,B-,99.0,103,99,126.47,64.08,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Allergies",1
+Peter Bowman,79.0,Adult,Female,Other,B+,97.3,167,67,136.44,90.0,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Asthma",1
+Timothy Stewart,24.0,Adult,Male,Other,A+,97.8,97,77,162.84,106.01,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Cindy Brown,12.0,Child,Female,Asian,A-,97.5,126,119,165.35,147.27,"Vaccination, Growth and development",1
+Jeffrey Ramos,14.0,Teenager,Female,Black,O+,98.1,99,77,131.5,45.89,"Acne and skin issues, Mental health challenges, Sexual health education, Hypertension",1
+Noah Hicks,25.0,Adult,Male,Other,B+,97.8,163,120,128.97,44.64,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Diabetes, Anxiety",1
+Nathan Leon,67.0,Adult,Female,Other,A+,97.5,100,107,171.17,94.86,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Hypertension, Asthma",1
+Carmen Johnson,21.0,Adult,Female,Hispanic,O+,98.7,160,74,166.68,103.99,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Tony Grant,80.0,Adult,Female,Asian,B+,98.1,146,81,172.09,113.49,General Checkup,0
+Stephen Neal,23.0,Adult,Male,Hispanic,O-,97.5,168,61,147.01,124.77,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Allergies",1
+Kevin Wilson,88.0,Adult,Male,White,B+,99.0,174,67,167.89,89.68,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Asthma, Depression",1
+William Frazier,86.0,Adult,Male,Hispanic,A-,98.6,95,96,177.46,92.79,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Allergies",1
+Kristy Johnson,53.0,Adult,Male,Black,AB-,98.2,139,61,154.56,78.78,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes",1
+Brenda Mack,23.0,Adult,Male,Asian,AB+,98.2,161,80,180.6,131.0,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Hypertension",1
+Brandon Davis,8.0,Child,Female,Black,AB+,98.1,153,87,180.73,69.57,General Checkup,0
+Joy Fleming,88.0,Adult,Male,Black,O+,98.4,177,117,187.16,142.18,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Rhonda Carpenter,83.0,Adult,Male,Black,O+,98.6,108,112,164.85,59.41,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Hypertension",1
+Susan Church,,Unknown,Female,White,A+,98.7,170,69,181.6,73.5,,1
+Jeremy Ball,7.0,Child,Male,Black,A-,99.0,171,66,173.26,65.83,General Checkup,0
+Nancy Booker,76.0,Adult,Male,Black,O-,98.4,168,78,144.75,93.94,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Depression, Anxiety",1
+Brianna Maldonado,90.0,Adult,Female,Hispanic,O-,97.9,91,85,165.06,49.69,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Stephen Lawson,62.0,Adult,Female,Black,A+,97.9,170,65,160.49,43.66,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity",1
+Eric Page,59.0,Adult,Male,Hispanic,A-,97.2,145,88,190.98,105.43,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Lisa Gordon,9.0,Child,Female,White,A+,97.2,111,64,191.62,131.39,"Vaccination, Growth and development",1
+Latoya Jennings,1.0,Child,Female,White,A-,97.1,140,117,195.65,78.39,"Vaccination, Growth and development, Anxiety, Allergies",1
+Alyssa Maynard,34.0,Adult,Male,White,B-,98.2,171,63,140.03,65.02,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Anne Rodriguez,60.0,Adult,Male,Other,AB+,98.1,161,101,174.7,90.91,General Checkup,0
+Nathan Hansen,69.0,Adult,Male,Black,B+,97.9,171,79,138.02,128.08,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Asthma",1
+Robert Smith,6.0,Child,Male,Asian,A+,98.1,159,68,176.61,57.16,"Vaccination, Growth and development, Asthma, Asthma",1
+Makayla Gross,2.0,Child,Male,Other,O-,98.1,129,60,172.7,40.05,General Checkup,0
+Melissa Cook,51.0,Adult,Female,Asian,AB-,97.1,124,86,192.71,52.32,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Anxiety, Asthma",1
+Renee Lindsey,64.0,Adult,Male,Asian,B-,98.2,128,79,124.69,44.04,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Jesse Baker,16.0,Teenager,Female,White,A+,97.6,94,93,160.69,78.37,"Acne and skin issues, Mental health challenges, Sexual health education, Obesity",1
+Amy Mccormick,59.0,Adult,Male,Other,B+,98.3,160,115,126.98,66.65,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes",1
+Samantha Wallace,48.0,Adult,Male,Black,O+,98.6,145,80,152.71,133.2,General Checkup,0
+Kevin Ochoa,52.0,Adult,Female,Other,B+,98.0,106,92,168.39,56.06,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Depression, Asthma",1
+Michelle Wood,66.0,Adult,Female,Black,O-,97.4,107,113,126.04,146.06,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Obesity",1
+Christopher Ryan,12.0,Child,Female,Hispanic,B+,97.3,112,120,124.02,93.29,General Checkup,0
+Marie Jarvis,60.0,Adult,Male,White,B+,97.3,151,67,123.18,105.83,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Ricky Brown,63.0,Adult,Male,Asian,B+,98.3,166,75,199.83,53.33,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Asthma, Hypertension",1
+Michelle Sanchez,42.0,Adult,Female,Black,A+,98.1,112,99,132.29,67.33,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Vincent Noble,39.0,Adult,Male,Hispanic,B-,97.5,97,85,161.14,48.89,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Carrie Deleon,39.0,Adult,Female,Black,O-,98.3,100,74,129.76,98.41,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes",1
+Sergio Perez,51.0,Adult,Female,Asian,O+,97.4,106,87,125.38,97.82,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Depression",1
+Kristy Miller,63.0,Adult,Male,Asian,O+,97.1,179,80,160.37,115.14,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Jose Sutton,53.0,Adult,Male,Black,AB+,98.5,148,84,181.5,41.91,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Brittany Bates,19.0,Adult,Female,Hispanic,B+,98.2,115,108,137.81,49.74,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Depression",1
+Kim Ward,46.0,Adult,Female,Asian,AB-,97.0,95,66,195.52,121.76,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Diabetes, Asthma",1
+John Bean,45.0,Adult,Male,Hispanic,O+,97.5,108,118,153.0,85.07,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Allergies, Depression",1
+April Jackson,32.0,Adult,Female,Black,O+,97.5,105,86,160.54,95.37,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Depression, Allergies",1
+Steven Edwards,1.0,Child,Female,Asian,AB-,97.5,106,89,199.42,92.45,"Vaccination, Growth and development, Depression, Asthma, Diabetes",1
+Bryan Cooper,59.0,Adult,Female,Other,AB+,97.6,137,106,138.29,69.69,General Checkup,0
+Kylie Hoffman,24.0,Adult,Female,White,A-,97.4,92,73,186.58,103.05,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Timothy Mason,61.0,Adult,Male,White,B+,98.8,110,118,127.34,107.8,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Depression, Diabetes",1
+Daniel Thompson,7.0,Child,Male,Hispanic,B-,97.8,128,90,177.3,111.62,"Vaccination, Growth and development",1
+Amber Moyer,90.0,Adult,Female,Hispanic,A+,97.8,151,85,190.85,106.29,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies",1
+Kimberly Warner,74.0,Adult,Female,White,AB-,98.1,109,61,144.55,84.75,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Deborah Johnson,57.0,Adult,Female,White,B+,97.4,93,90,137.92,138.44,General Checkup,0
+Kristen Scott,74.0,Adult,Female,White,B-,97.6,95,70,158.22,122.8,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Timothy Zhang,62.0,Adult,Male,Other,AB-,97.5,146,85,157.72,125.3,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Hypertension",1
+Charles Klein,48.0,Adult,Male,Hispanic,O+,98.8,136,110,172.28,74.49,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies",1
+Chelsea Harrison,57.0,Adult,Male,Other,A-,98.4,110,65,163.48,146.91,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Anxiety",1
+Erin Munoz,43.0,Adult,Female,Asian,A+,98.8,151,90,136.92,88.14,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Asthma, Diabetes",1
+Matthew Meadows,53.0,Adult,Male,Other,AB-,98.0,172,110,141.18,107.26,General Checkup,0
+John Harris,10.0,Child,Male,Asian,AB+,99.0,161,95,159.12,131.57,"Vaccination, Growth and development, Diabetes, Hypertension",1
+Jessica French,56.0,Adult,Male,Hispanic,B-,98.0,116,62,146.35,44.88,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Asthma, Allergies",1
+Kimberly Simmons,32.0,Adult,Female,Asian,A+,98.6,110,100,167.4,125.34,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Asthma, Allergies",1
+Michael Bolton,75.0,Adult,Female,Hispanic,AB-,97.2,173,107,190.53,50.75,General Checkup,0
+Tina Green,73.0,Adult,Female,Black,AB-,97.2,116,63,187.48,89.67,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Diabetes",1
+Stephanie Edwards,43.0,Adult,Female,Other,A-,99.0,107,99,171.6,148.91,General Checkup,0
+Alexis Smith,72.0,Adult,Male,Black,AB-,98.2,107,88,163.6,74.84,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Hypertension, Allergies",1
+Matthew Anderson,26.0,Adult,Male,Hispanic,B-,98.5,113,81,155.19,63.27,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Depression",1
+Kathryn Nicholson,15.0,Teenager,Male,Hispanic,O-,98.0,141,83,193.41,132.75,General Checkup,0
+Kylie Cohen,51.0,Adult,Male,White,B-,98.7,91,67,137.91,76.95,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Monica Bowen,,Unknown,Male,Other,A-,97.9,102,112,142.66,61.82,Obesity,1
+Dr. Ashley Flores,20.0,Adult,Male,Hispanic,AB-,97.1,118,90,174.0,131.65,General Checkup,0
+Stephen White,89.0,Adult,Male,Hispanic,B+,98.2,140,83,150.06,46.28,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Obesity, Obesity",1
+Frederick Martinez,86.0,Adult,Female,Black,AB-,97.0,94,62,175.31,47.6,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Krista Ramirez,27.0,Adult,Female,Hispanic,AB-,98.1,99,65,126.01,145.67,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Anxiety, Anxiety",1
+Mr. Nicholas Miller,34.0,Adult,Female,Black,O-,97.2,177,86,193.46,44.45,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity",1
+Matthew Marshall,70.0,Adult,Female,Hispanic,O+,97.9,158,95,141.92,116.22,General Checkup,0
+Nathan Bell,35.0,Adult,Female,Asian,O+,98.5,175,66,124.85,128.15,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Michelle Smith,90.0,Adult,Female,Hispanic,O-,97.8,101,69,187.2,138.42,General Checkup,0
+Joseph Ramsey,35.0,Adult,Female,White,AB-,98.6,113,60,128.23,55.42,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Obesity, Diabetes",1
+Shannon Bond,90.0,Adult,Male,Asian,O-,97.4,118,61,170.94,49.97,General Checkup,0
+Derek Reyes,80.0,Adult,Female,Other,A-,97.7,95,61,154.66,127.97,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Hypertension",1
+Ronald Lane,81.0,Adult,Female,White,O-,98.2,146,102,137.72,135.25,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Asthma, Obesity",1
+Dennis Heath,80.0,Adult,Male,Asian,A-,99.0,116,94,138.13,82.23,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies",1
+Rodney Alexander,66.0,Adult,Male,Hispanic,A+,98.7,140,111,186.81,41.77,General Checkup,0
+William Rodriguez,51.0,Adult,Female,White,B+,97.9,154,93,199.88,121.7,General Checkup,0
+Aaron Fitzgerald,86.0,Adult,Male,Black,A+,97.7,157,77,143.12,108.22,General Checkup,0
+Carrie Henderson,48.0,Adult,Female,Hispanic,B-,97.5,173,87,181.79,62.86,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Asthma",1
+John Sanchez,80.0,Adult,Female,White,B+,98.0,95,114,197.94,57.41,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Teresa Johnson,47.0,Adult,Female,Other,AB+,97.2,145,68,165.73,42.41,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Anxiety",1
+Natalie Butler,72.0,Adult,Male,Asian,A-,97.9,107,84,140.34,89.71,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Diabetes",1
+Regina Wright,90.0,Adult,Male,Black,O+,98.6,117,120,177.17,51.2,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+James Bernard,49.0,Adult,Male,Hispanic,AB-,97.4,140,70,136.05,132.59,General Checkup,0
+Angie Wilson,86.0,Adult,Female,White,A-,97.8,177,73,144.69,81.08,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Asthma, Anxiety",1
+Melissa Thomas,66.0,Adult,Female,Asian,AB-,98.3,112,105,187.94,122.18,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+David Ford,10.0,Child,Male,Black,B+,98.4,110,69,135.06,113.88,"Vaccination, Growth and development",1
+Sarah Price,75.0,Adult,Male,Other,AB+,97.1,149,110,140.42,70.11,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Diabetes",1
+Charles White,27.0,Adult,Male,White,O-,98.1,161,88,198.05,89.55,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Sarah Mills,56.0,Adult,Female,Other,O+,98.1,151,109,143.47,146.65,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Anxiety, Diabetes",1
+Amber Grimes,81.0,Adult,Female,White,AB+,97.8,130,88,171.82,111.36,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Obesity",1
+Zachary Braun,,Unknown,Male,Hispanic,B-,98.2,114,65,173.57,96.38,,0
+Destiny Moreno,31.0,Adult,Female,Black,B-,98.4,110,71,137.01,107.99,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Mark Harris,68.0,Adult,Female,Black,O-,97.4,104,61,179.11,86.38,General Checkup,0
+Joseph Jackson,65.0,Adult,Female,Other,B-,98.5,126,119,166.47,124.21,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Tammy Scott,89.0,Adult,Female,Other,B-,98.8,131,113,199.37,73.62,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Joshua Henderson,,Unknown,Female,Black,O+,98.8,169,114,183.01,92.27,Hypertension,1
+Ivan Moore,9.0,Child,Female,Other,O+,98.6,131,66,124.11,129.3,General Checkup,0
+Betty Kent,13.0,Teenager,Female,Hispanic,B-,98.0,154,92,148.26,87.82,General Checkup,0
+Bobby Lee Jr.,73.0,Adult,Male,Asian,AB+,98.6,94,71,196.89,40.26,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Allergies",1
+Kristin Horn,,Unknown,Male,Asian,AB+,98.1,173,78,155.08,61.88,,1
+Sean Barton,49.0,Adult,Male,White,A-,97.6,98,98,136.71,67.35,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Gina Black,56.0,Adult,Female,Asian,AB-,98.8,125,69,182.68,42.79,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Diabetes",1
+Frank Taylor,74.0,Adult,Male,Hispanic,AB+,98.4,171,113,125.87,122.75,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Allergies, Anxiety",1
+Michael Stevens,49.0,Adult,Male,Other,A-,97.6,132,112,136.17,58.33,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Allergies",1
+Stephanie Foster,8.0,Child,Female,Hispanic,A+,97.5,134,82,189.48,48.05,"Vaccination, Growth and development",0
+Matthew Bradshaw,47.0,Adult,Female,Black,O+,98.9,93,63,146.25,91.39,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Depression",1
+Hannah Stein,61.0,Adult,Female,Other,A-,98.9,127,115,163.64,93.99,General Checkup,0
+Wendy Gould,59.0,Adult,Female,White,B+,98.4,109,61,146.86,41.42,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety",0
+Kenneth Gray,66.0,Adult,Female,Hispanic,B+,98.5,131,71,157.49,115.84,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+James Curtis,63.0,Adult,Male,Other,A+,98.5,94,62,174.61,125.94,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Obesity, Allergies",1
+Michael Chavez,90.0,Adult,Female,Hispanic,A-,98.4,136,95,123.76,99.12,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Obesity",1
+Jeanne Phillips,67.0,Adult,Female,Black,O+,97.0,133,93,191.1,64.71,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Allergies",1
+Bridget Stephenson,58.0,Adult,Male,Other,A-,98.0,172,64,174.7,109.05,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity",1
+Nancy Martin,79.0,Adult,Female,Hispanic,AB+,98.5,114,77,173.56,96.47,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety",0
+Shawn Richmond,3.0,Child,Male,White,O-,98.3,153,112,173.4,80.33,"Vaccination, Growth and development, Depression, Anxiety, Asthma",1
+Ian Meza,7.0,Child,Male,Black,O+,98.1,146,119,170.78,97.53,"Vaccination, Growth and development, Obesity",1
+Amy Herrera,23.0,Adult,Female,Asian,B-,98.9,109,70,194.23,84.47,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Hypertension, Asthma",1
+Alexandra Brown,55.0,Adult,Female,Asian,O-,99.0,116,65,194.78,135.17,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Christopher Bush,17.0,Teenager,Male,Hispanic,A+,98.8,175,73,171.3,148.05,"Acne and skin issues, Mental health challenges, Sexual health education, Depression, Diabetes, Asthma",1
+Carl Todd,80.0,Adult,Female,Black,A+,98.0,101,119,120.17,86.66,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Jeffrey Saunders,8.0,Child,Female,White,B+,98.2,159,100,147.55,96.91,General Checkup,0
+Pamela Jordan,73.0,Adult,Male,Other,AB-,98.0,125,119,133.47,40.7,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Angel Liu,24.0,Adult,Female,Asian,A+,98.3,149,88,129.56,140.82,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Depression, Hypertension",1
+Jonathan Marquez,29.0,Adult,Male,Black,O-,98.3,112,93,195.73,149.41,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Obesity",1
+Laura Brown,83.0,Adult,Male,Other,A-,98.8,176,117,199.84,87.25,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Obesity",1
+Daniel Bray,50.0,Adult,Female,Asian,A+,97.7,94,110,142.97,134.92,General Checkup,0
+Nicole Nelson,17.0,Teenager,Male,Hispanic,B-,97.4,108,110,164.34,83.8,"Acne and skin issues, Mental health challenges, Sexual health education, Diabetes, Obesity",1
+Jennifer Tran,57.0,Adult,Female,Other,B+,97.9,165,97,159.32,133.02,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Brent Johnson,59.0,Adult,Female,Other,O-,98.6,117,87,199.92,76.96,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Kevin Gutierrez,4.0,Child,Female,Asian,A+,98.2,132,103,196.98,44.2,"Vaccination, Growth and development, Obesity, Asthma",1
+Matthew Aguirre,20.0,Adult,Male,Black,A-,98.0,151,99,183.73,136.7,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Obesity, Obesity",1
+Chelsea Martinez,40.0,Adult,Female,White,O-,97.9,176,75,169.19,129.84,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Diabetes, Diabetes",1
+Jaime Jenkins,67.0,Adult,Male,Black,AB-,98.0,112,71,120.97,58.78,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Christopher Hancock,44.0,Adult,Female,Hispanic,O+,97.4,180,92,184.24,142.95,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Emily Davis,79.0,Adult,Female,Asian,A+,98.7,161,68,165.57,71.93,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Hypertension, Obesity",1
+Caitlin Park,72.0,Adult,Male,Hispanic,AB-,97.8,132,92,135.98,56.29,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Ashley Graves,30.0,Adult,Male,Hispanic,O-,98.3,108,62,161.32,46.16,General Checkup,0
+Angela Curtis,61.0,Adult,Male,White,AB+,97.1,149,75,123.7,114.12,General Checkup,0
+Robert Kelly,48.0,Adult,Female,White,AB+,98.4,133,70,180.78,59.95,General Checkup,0
+Brenda Vasquez,19.0,Adult,Female,White,O-,98.5,132,73,143.77,114.57,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Christopher Short,78.0,Adult,Female,Hispanic,O+,98.4,161,99,153.3,115.15,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Anxiety",1
+Alex Huffman,18.0,Teenager,Male,Asian,AB+,97.9,127,77,126.39,43.53,"Acne and skin issues, Mental health challenges, Sexual health education",0
+Cody Stephens,30.0,Adult,Female,Other,A-,98.9,130,114,172.99,94.62,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+James Edwards,12.0,Child,Female,Other,AB+,98.9,109,79,170.96,96.03,"Vaccination, Growth and development, Anxiety, Depression, Anxiety",1
+Darrell Vega,20.0,Adult,Male,Black,O+,98.1,114,67,163.96,80.05,General Checkup,0
+Danny Carey,35.0,Adult,Male,Hispanic,A+,98.7,136,67,154.25,129.67,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Anxiety, Diabetes",1
+David Jackson,17.0,Teenager,Female,Black,AB+,98.7,104,108,187.74,74.61,"Acne and skin issues, Mental health challenges, Sexual health education, Hypertension, Asthma, Hypertension",1
+Sherry Mullen,33.0,Adult,Male,Asian,B-,97.8,105,106,184.25,139.3,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Michael Jones,,Unknown,Male,Black,B+,98.2,164,83,122.21,103.84,,1
+Sarah Richards,76.0,Adult,Female,Hispanic,B-,97.6,174,89,167.22,98.12,General Checkup,0
+Dr. Laurie Bailey,63.0,Adult,Female,Asian,B-,98.4,128,80,125.44,115.78,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Catherine Santos,88.0,Adult,Female,Asian,A-,98.1,130,90,153.76,143.02,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity",1
+Tiffany Torres,73.0,Adult,Male,Asian,O-,97.1,136,88,130.65,71.86,General Checkup,0
+Sergio Underwood,44.0,Adult,Female,Hispanic,AB-,98.6,177,72,199.67,146.85,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Anxiety, Anxiety",1
+Jordan Lane,47.0,Adult,Male,Other,A-,97.2,101,120,132.01,92.42,General Checkup,0
+Justin Mcneil,64.0,Adult,Female,Other,B+,97.1,167,104,124.26,147.19,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Asthma, Diabetes",1
+Susan Hamilton,52.0,Adult,Male,Hispanic,B+,98.0,116,93,190.25,113.06,General Checkup,0
+Jonathan Butler,58.0,Adult,Male,White,O-,98.6,172,102,121.88,75.42,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Obesity",1
+Thomas Mcclain,31.0,Adult,Female,Hispanic,AB+,98.1,112,70,154.16,109.12,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes",1
+Toni Hahn,2.0,Child,Male,Other,A-,97.0,160,101,167.49,53.43,"Vaccination, Growth and development, Obesity, Asthma, Depression",1
+Cheryl Ingram,23.0,Adult,Male,Hispanic,A+,98.0,158,109,183.92,44.65,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+John Baker,70.0,Adult,Female,Other,A+,97.6,129,83,132.9,70.49,General Checkup,0
+Amy Mitchell,54.0,Adult,Female,Hispanic,O+,97.2,147,117,136.11,114.15,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+James Rodriguez,78.0,Adult,Male,Black,AB-,98.1,123,61,145.51,107.44,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Diabetes",1
+Amber Solomon,75.0,Adult,Male,White,O+,97.2,115,74,190.42,77.86,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes",1
+Mrs. Leslie Cross,72.0,Adult,Male,Hispanic,AB+,98.3,112,77,129.88,129.98,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Diabetes, Hypertension",1
+Tracey Walker,27.0,Adult,Female,White,B+,98.8,124,89,162.6,54.28,General Checkup,0
+Christina Hendrix,30.0,Adult,Female,Hispanic,O-,98.6,96,106,151.71,135.19,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Diabetes",1
+Amber Curry,50.0,Adult,Female,Other,O+,97.5,164,113,182.04,137.0,General Checkup,0
+Christina Cobb,72.0,Adult,Female,Asian,O-,97.7,133,75,130.0,42.99,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Anxiety, Diabetes",1
+Michael Wilkerson,2.0,Child,Male,Black,O+,97.6,151,78,120.35,106.39,"Vaccination, Growth and development, Asthma, Depression, Allergies",1
+Corey Hanson,,Unknown,Female,Black,AB-,97.0,179,113,175.61,115.35,"Anxiety, Anxiety",1
+James Roberson,71.0,Adult,Female,Other,AB-,97.3,90,69,187.88,121.28,General Checkup,0
+Maria Escobar,55.0,Adult,Male,Asian,AB+,97.3,140,78,135.34,113.86,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Allergies",1
+Andrew Brown,77.0,Adult,Male,White,AB+,97.9,101,76,158.69,116.65,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Depression",1
+Larry Howard,,Unknown,Female,Hispanic,A-,98.4,152,105,177.64,148.66,"Hypertension, Obesity",1
+Sean Evans,,Unknown,Female,Other,O+,97.1,124,83,176.26,92.58,Asthma,1
+Sandra Mitchell,60.0,Adult,Male,Asian,AB-,98.7,114,60,183.47,43.31,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Corey Mcclure,45.0,Adult,Male,Hispanic,O+,97.1,169,114,136.85,45.27,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Allergies, Allergies",1
+Justin Patrick,57.0,Adult,Male,Hispanic,O+,98.9,143,90,155.35,145.24,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Hypertension, Depression",1
+Daniel Leon,72.0,Adult,Female,Hispanic,B-,97.6,102,84,180.61,43.32,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Becky Keith,6.0,Child,Female,Asian,A+,98.8,131,104,122.87,77.23,"Vaccination, Growth and development, Depression, Hypertension",1
+John Marks,45.0,Adult,Female,Hispanic,B-,97.9,167,62,154.88,122.06,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Diabetes, Allergies",1
+Cheryl Gonzales,63.0,Adult,Male,Asian,AB+,97.3,167,95,181.43,83.5,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Obesity, Hypertension",1
+Scott Ramsey,15.0,Teenager,Male,Hispanic,B+,98.9,153,108,174.29,44.72,"Acne and skin issues, Mental health challenges, Sexual health education, Depression, Hypertension, Allergies",1
+Jennifer Lambert,37.0,Adult,Female,Asian,O-,97.2,142,117,137.43,116.71,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Depression",1
+Bobby Wells,24.0,Adult,Male,Hispanic,B+,97.6,94,115,168.53,125.24,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Julian Webb,18.0,Teenager,Male,Hispanic,A+,98.0,108,101,172.92,108.45,"Acne and skin issues, Mental health challenges, Sexual health education",1
+Patty Delgado,75.0,Adult,Female,Black,AB-,98.4,115,89,172.94,69.32,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Brandi Allen,21.0,Adult,Female,White,B-,98.4,173,114,156.58,83.37,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Derrick Bowen,61.0,Adult,Female,Black,B+,97.3,141,100,122.49,63.03,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Obesity",1
+Aaron Thomas,88.0,Adult,Male,Hispanic,O+,98.5,141,108,197.53,76.1,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies",1
+Anita Savage,19.0,Adult,Male,Other,A+,97.3,141,100,161.96,112.78,General Checkup,0
+Nancy Coleman,66.0,Adult,Male,Other,AB+,98.8,96,100,179.18,58.48,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Hypertension",1
+Joseph Hunter,59.0,Adult,Male,Asian,AB-,97.4,99,73,132.41,64.6,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Asthma",1
+Gregory Hansen,,Unknown,Male,Other,O-,98.7,147,85,167.58,55.54,"Asthma, Allergies, Depression",1
+Lauren Payne,81.0,Adult,Female,Hispanic,AB-,97.0,158,99,158.44,43.34,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Hypertension, Hypertension",1
+Mr. Curtis Atkinson MD,44.0,Adult,Female,Hispanic,A+,97.0,177,113,188.56,112.01,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Asthma, Obesity",1
+Desiree Jones,38.0,Adult,Female,Asian,A+,97.9,97,89,166.66,61.02,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Francisco Watts,3.0,Child,Female,Black,AB+,97.9,147,104,134.28,50.66,"Vaccination, Growth and development, Anxiety, Asthma, Depression",1
+Aaron Garcia,80.0,Adult,Male,Other,A-,97.4,101,119,139.36,53.85,General Checkup,0
+Ashley Melendez,41.0,Adult,Female,Hispanic,AB+,98.2,101,62,122.84,52.08,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Allergies, Obesity",1
+Susan Clark,34.0,Adult,Male,Hispanic,B+,97.4,145,63,130.65,73.1,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Diabetes, Obesity",1
+Steven Malone,20.0,Adult,Male,Other,A+,97.5,151,67,135.66,137.7,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Asthma",1
+Jason Decker,11.0,Child,Male,White,AB+,98.9,167,72,124.77,118.18,"Vaccination, Growth and development, Allergies",1
+Jack Melendez,64.0,Adult,Male,White,A+,99.0,107,98,159.87,112.21,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity",1
+Jessica Davis,77.0,Adult,Male,White,O+,97.6,130,113,164.14,56.94,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Asthma, Diabetes",1
+Nicole Lee,62.0,Adult,Female,Black,B+,98.5,98,66,122.91,93.93,General Checkup,0
+Kevin Beard,12.0,Child,Female,Asian,O-,97.6,108,83,198.51,138.6,"Vaccination, Growth and development, Hypertension, Anxiety",1
+Cameron Mcdonald,35.0,Adult,Female,Other,B+,97.1,156,100,185.46,74.14,General Checkup,0
+Tyler Pollard,34.0,Adult,Male,White,AB+,97.2,146,61,180.97,92.55,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Patricia Sparks,54.0,Adult,Male,White,AB-,98.7,145,104,177.17,120.84,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Allergies, Hypertension",1
+Samantha Smith,6.0,Child,Male,Black,AB-,98.1,167,110,133.07,133.05,"Vaccination, Growth and development, Obesity",1
+Sara Schwartz,1.0,Child,Female,White,O-,97.9,107,114,158.46,78.99,"Vaccination, Growth and development, Hypertension, Hypertension",1
+Eric Wright,13.0,Teenager,Male,Hispanic,B+,98.9,129,96,140.77,135.15,"Acne and skin issues, Mental health challenges, Sexual health education",1
+Mr. Thomas Ray,22.0,Adult,Female,Black,AB-,98.1,112,103,148.5,132.02,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Allergies",1
+Michael Odom,84.0,Adult,Female,Black,A+,97.4,117,61,184.08,63.84,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Allergies, Obesity",1
+Brittany Hart,37.0,Adult,Female,Other,B-,97.5,131,104,156.27,136.47,General Checkup,0
+Jessica Clements,2.0,Child,Male,Hispanic,B-,98.9,112,86,152.1,113.85,"Vaccination, Growth and development, Depression, Anxiety",1
+Ralph Wright,6.0,Child,Male,Hispanic,O-,97.6,163,87,178.67,62.34,"Vaccination, Growth and development",1
+Gerald Baker,69.0,Adult,Male,White,AB-,97.9,141,76,142.34,74.11,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Veronica White,29.0,Adult,Female,Hispanic,AB+,98.7,91,80,136.22,74.26,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies",1
+Steven Bird,18.0,Teenager,Male,Black,AB+,98.5,120,61,191.37,82.14,"Acne and skin issues, Mental health challenges, Sexual health education",0
+Jasmine Wallace,46.0,Adult,Male,Hispanic,B-,98.4,167,118,126.58,71.66,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity",1
+Kelsey Jones,40.0,Adult,Female,White,O-,98.8,114,89,186.2,95.16,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Walter Ford,75.0,Adult,Male,Other,B+,97.4,156,75,177.03,96.24,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Ashley Erickson,,Unknown,Female,Other,O-,98.7,102,108,130.27,93.0,Depression,1
+Gail Lewis,6.0,Child,Male,Other,B-,98.4,119,98,150.97,41.76,General Checkup,0
+Edward Snyder DVM,42.0,Adult,Male,Hispanic,O-,97.0,162,79,197.64,134.88,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Diabetes, Diabetes",1
+Paul Martinez,54.0,Adult,Male,Black,B+,97.2,159,98,120.45,136.66,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Anxiety",1
+Julie Perez,,Unknown,Male,White,O-,98.3,174,81,171.28,69.67,"Hypertension, Diabetes, Diabetes",1
+Michelle Salazar,1.0,Child,Female,Asian,B+,98.9,110,84,185.25,45.4,"Vaccination, Growth and development",0
+Sharon Little,29.0,Adult,Female,Other,AB+,97.2,90,92,130.76,90.15,General Checkup,0
+Jennifer Sutton,78.0,Adult,Male,Black,A+,97.3,137,83,199.07,55.44,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Depression, Hypertension",1
+Michael Wright,80.0,Adult,Female,Asian,A+,98.6,97,106,125.31,119.74,General Checkup,0
+Andrew Murphy,,Unknown,Male,White,O-,97.3,155,102,120.03,68.26,"Hypertension, Hypertension, Hypertension",1
+John Diaz,,Unknown,Male,Other,B+,98.6,150,96,137.47,69.52,"Asthma, Hypertension",1
+Karen Perry,57.0,Adult,Female,Black,O-,97.7,120,99,123.24,83.87,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies",1
+Larry Valenzuela,48.0,Adult,Male,Asian,B+,98.0,132,112,169.7,113.86,General Checkup,0
+Brianna Brown,43.0,Adult,Female,White,B+,97.5,133,87,129.07,108.86,General Checkup,0
+Christine Mayer,55.0,Adult,Female,Hispanic,AB-,98.1,91,101,148.14,50.97,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Hypertension, Obesity",1
+Derek Sanchez,87.0,Adult,Male,White,B+,98.6,156,72,182.59,95.11,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity",1
+Elaine Fox,35.0,Adult,Female,Black,B+,98.6,142,119,175.04,63.38,General Checkup,0
+William Smith,33.0,Adult,Female,Other,AB-,98.6,152,65,151.66,144.08,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Katie Foster,68.0,Adult,Male,Asian,A+,97.3,139,61,180.81,101.75,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+John Mckinney,86.0,Adult,Female,Hispanic,AB-,97.6,159,78,195.47,85.69,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Hypertension",1
+Bernard Johnson,45.0,Adult,Male,Black,A-,97.1,108,97,169.23,123.46,General Checkup,0
+Casey Davis,77.0,Adult,Male,Black,O-,97.6,115,102,197.65,65.99,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Diabetes",1
+Luke Evans,4.0,Child,Female,White,B+,97.8,177,110,156.36,138.46,"Vaccination, Growth and development",1
+Gavin Butler,41.0,Adult,Male,Other,O-,97.7,180,65,141.64,134.75,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Allergies, Anxiety",1
+William Simpson,31.0,Adult,Male,Hispanic,AB+,98.1,102,70,183.13,57.22,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Obesity",0
+Sara Schroeder,,Unknown,Female,Hispanic,A-,98.5,111,61,199.61,42.55,"Asthma, Allergies",1
+Justin Gonzales,85.0,Adult,Female,White,A+,98.4,122,99,165.12,110.16,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Terry Murphy,,Unknown,Female,Black,AB+,97.2,132,81,197.94,63.8,,0
+Robert Ortega,16.0,Teenager,Male,Asian,A-,98.3,110,71,152.18,116.58,General Checkup,0
+Andrew Wang,19.0,Adult,Male,Other,B+,98.0,125,65,154.18,95.64,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Anxiety, Allergies",1
+Katelyn Brown,2.0,Child,Female,Hispanic,O+,98.3,129,89,145.5,69.59,"Vaccination, Growth and development",0
+Melanie Lara,32.0,Adult,Male,Black,AB-,98.5,100,116,125.96,107.9,General Checkup,0
+Matthew Mills,4.0,Child,Female,Black,AB-,97.4,105,71,171.48,106.15,"Vaccination, Growth and development, Anxiety, Depression, Allergies",1
+Dean Gomez,30.0,Adult,Male,Hispanic,AB+,97.5,123,96,147.67,75.92,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies",1
+Maurice Keith,64.0,Adult,Female,Black,A-,97.9,116,74,189.78,82.88,General Checkup,0
+Lawrence Carpenter,10.0,Child,Male,White,O-,97.9,118,65,134.92,55.24,"Vaccination, Growth and development, Allergies, Allergies, Anxiety",1
+John Hunter,33.0,Adult,Male,White,B-,98.1,175,119,168.34,119.36,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Anxiety",1
+Tyrone Guerrero,45.0,Adult,Female,White,AB+,97.8,140,74,151.47,103.24,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Hypertension, Depression",1
+Michael Parker,56.0,Adult,Female,Other,O-,98.0,176,73,140.84,140.12,General Checkup,0
+Michael Smith,28.0,Adult,Female,Hispanic,O+,97.6,101,87,161.54,63.63,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Depression, Hypertension",1
+Tina Brown,,Unknown,Female,Other,O-,97.8,143,85,157.31,82.09,,1
+Lisa Roth,29.0,Adult,Female,White,B-,97.5,174,80,196.65,148.25,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Asthma",1
+Todd Dawson,41.0,Adult,Male,Other,A+,99.0,165,115,138.19,138.24,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Asthma, Asthma",1
+Michael Powell,1.0,Child,Female,Asian,AB-,98.1,173,98,194.11,129.04,"Vaccination, Growth and development, Allergies",1
+Courtney Patterson,33.0,Adult,Female,Other,O-,97.3,166,77,124.9,59.86,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety",1
+James Cunningham,72.0,Adult,Female,Hispanic,AB+,97.8,106,95,146.46,143.56,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Jamie Sanchez,72.0,Adult,Male,Black,B-,98.4,110,110,146.77,49.69,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Calvin Foster,26.0,Adult,Male,Asian,O-,97.3,140,118,142.64,41.19,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Obesity",1
+Melissa Lowe,87.0,Adult,Male,White,B+,97.3,111,99,176.98,118.05,General Checkup,0
+Alexis Williams,61.0,Adult,Male,Black,AB+,97.1,103,94,135.34,129.5,General Checkup,0
+Dr. David Saunders,29.0,Adult,Female,Asian,A-,97.1,127,116,174.01,97.07,General Checkup,0
+Susan Torres,80.0,Adult,Female,Other,AB-,97.3,92,97,198.12,127.76,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity",1
+Aaron Rivera,38.0,Adult,Female,Other,B-,97.6,143,119,174.4,55.99,General Checkup,0
+Amy Blackwell,84.0,Adult,Female,White,O-,98.4,130,87,176.11,80.45,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Megan Newton,33.0,Adult,Male,Other,A+,98.3,135,117,152.44,45.18,General Checkup,0
+Lindsay Stewart,50.0,Adult,Female,Black,O+,97.2,115,105,143.17,72.66,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Christopher Smith,64.0,Adult,Female,White,A-,98.0,172,80,135.15,93.06,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Hannah Mcbride,69.0,Adult,Male,Hispanic,B+,98.4,149,117,190.17,133.9,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity",1
+Kayla Alexander,82.0,Adult,Male,Asian,A+,97.3,135,115,177.38,83.47,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Diabetes, Asthma",1
+Jamie Price MD,12.0,Child,Female,Asian,AB-,98.1,112,71,197.96,113.59,General Checkup,0
+Jake Gibson,68.0,Adult,Male,Asian,AB+,98.1,153,114,141.99,103.15,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Allergies, Diabetes",1
+Tristan Carpenter,,Unknown,Female,White,B+,97.6,113,79,158.33,106.69,Asthma,1
+Renee Moran,73.0,Adult,Female,Asian,AB+,97.1,101,67,145.75,49.63,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Michelle Perez,3.0,Child,Male,Black,A-,98.7,139,68,162.13,147.8,"Vaccination, Growth and development, Allergies",1
+Lisa Hansen,43.0,Adult,Male,White,B+,97.1,154,89,169.29,90.92,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Diabetes",1
+Gregory Henry,38.0,Adult,Male,Hispanic,B+,98.4,105,63,183.35,64.31,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Asthma, Anxiety",1
+Stephen Pearson,25.0,Adult,Female,White,O+,98.4,131,104,140.11,92.56,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Jasmine Payne,70.0,Adult,Male,Asian,A-,97.6,158,94,189.28,50.89,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Hypertension",1
+Donna Vasquez,24.0,Adult,Female,Asian,AB+,97.2,168,93,171.5,94.92,General Checkup,0
+Jessica Winters,26.0,Adult,Male,Hispanic,AB-,98.1,129,103,161.21,92.22,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Asthma",1
+Todd Phillips,64.0,Adult,Female,White,B-,97.8,140,110,138.51,86.13,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Allergies",1
+Jessica Gonzalez,82.0,Adult,Male,Other,A+,97.5,168,109,146.09,81.93,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Obesity, Diabetes",1
+Jennifer Wright,70.0,Adult,Female,Hispanic,O-,98.0,172,92,130.43,125.24,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Kristie Esparza,27.0,Adult,Female,White,AB-,97.4,168,80,149.09,99.49,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Anxiety, Depression",1
+Clayton Lara,47.0,Adult,Male,Other,A+,97.8,117,102,182.68,134.47,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Valerie Owen,17.0,Teenager,Female,Black,B+,97.2,100,120,152.1,103.12,"Acne and skin issues, Mental health challenges, Sexual health education, Obesity",1
+Mark Peters,70.0,Adult,Male,Asian,B+,97.1,136,104,127.05,72.65,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Michael Shaffer,62.0,Adult,Female,Hispanic,AB-,98.9,144,108,165.43,132.47,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Obesity, Allergies",1
+Jared Lee,49.0,Adult,Female,Black,AB+,98.0,180,72,197.54,125.6,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Obesity, Depression",1
+Grace Ramsey,,Unknown,Female,Asian,A-,98.9,130,116,198.26,139.56,"Anxiety, Diabetes, Depression",1
+Jonathan Patel,11.0,Child,Female,Other,A-,97.9,110,107,147.22,88.1,"Vaccination, Growth and development, Diabetes",1
+Nancy Martin,80.0,Adult,Male,Other,AB-,98.5,150,88,185.1,118.74,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Brittany Cummings,78.0,Adult,Female,Other,B-,98.4,143,113,190.67,130.15,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Allergies, Allergies",1
+Jesus Bradshaw,23.0,Adult,Male,Other,O-,98.2,176,102,174.57,47.07,General Checkup,0
+Victor Johnson,76.0,Adult,Male,Other,O-,98.8,119,119,138.82,107.14,General Checkup,0
+Brenda Ferrell,20.0,Adult,Male,Black,O+,98.9,93,114,182.14,74.06,General Checkup,0
+Timothy Bates,89.0,Adult,Female,Hispanic,A+,97.3,106,110,171.07,70.57,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes",1
+Ellen King,35.0,Adult,Male,Other,AB+,97.5,90,97,181.63,141.43,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Asthma, Depression",1
+Kelli Smith,40.0,Adult,Male,Black,A-,97.9,107,117,133.3,95.35,General Checkup,0
+Jean Rangel,6.0,Child,Female,Black,B-,97.4,179,103,193.74,44.36,"Vaccination, Growth and development, Diabetes, Diabetes, Asthma",1
+Amanda Gaines,84.0,Adult,Female,White,B+,98.5,109,77,189.97,46.45,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Asthma, Anxiety",1
+Cynthia Buckley,63.0,Adult,Female,White,O+,98.4,158,105,175.88,113.26,General Checkup,0
+Tiffany Lopez,70.0,Adult,Female,Black,A-,97.0,94,70,134.04,97.19,General Checkup,0
+Carolyn Berger,62.0,Adult,Female,Hispanic,AB-,98.7,123,68,175.23,140.48,General Checkup,0
+Ralph Keller,38.0,Adult,Female,Asian,AB-,99.0,155,63,131.28,45.63,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Mary Mills,18.0,Teenager,Male,Other,B+,97.5,134,116,197.44,86.18,"Acne and skin issues, Mental health challenges, Sexual health education, Anxiety",1
+Briana Wilson,84.0,Adult,Male,White,AB-,98.4,154,120,177.1,90.87,General Checkup,0
+Stephanie Barrera,57.0,Adult,Female,Black,O+,97.3,115,116,164.94,127.21,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Lisa Santos,6.0,Child,Male,Hispanic,O+,97.7,174,78,172.44,70.44,"Vaccination, Growth and development",1
+Mckenzie Aguirre,81.0,Adult,Female,Other,A+,97.8,149,116,172.29,64.18,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Timothy Graves,41.0,Adult,Male,White,O-,98.4,106,113,149.36,73.15,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes",1
+Vickie Davis,2.0,Child,Male,Asian,AB-,97.9,176,78,158.53,143.21,"Vaccination, Growth and development, Hypertension, Depression, Asthma",1
+Andrea Brown,52.0,Adult,Female,Asian,A+,97.9,103,87,138.06,45.48,General Checkup,0
+Richard Parker,,Unknown,Male,White,B-,97.4,111,75,182.95,85.67,"Allergies, Hypertension",1
+Dominique Davis,,Unknown,Female,Black,B+,97.4,170,109,196.34,53.97,,1
+David Carlson,81.0,Adult,Female,Black,B+,97.4,148,96,171.39,141.72,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Allergies",1
+Melissa Campbell,55.0,Adult,Male,Other,O-,97.0,142,73,142.27,95.6,General Checkup,0
+Mary Hendricks,43.0,Adult,Male,Asian,O+,98.3,103,61,193.36,116.78,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Sean Perez,90.0,Adult,Female,Other,A+,97.7,166,106,156.2,138.24,General Checkup,0
+Megan Sullivan,90.0,Adult,Male,Asian,A-,98.4,126,64,160.09,47.75,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Hypertension, Diabetes",1
+Yvonne Jones,78.0,Adult,Male,Other,O+,97.1,115,60,196.55,48.37,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity",0
+John Martin,78.0,Adult,Female,Other,B+,97.4,134,83,123.91,114.27,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Depression, Allergies",1
+Richard Wood,61.0,Adult,Male,Other,AB-,97.1,120,64,153.48,55.42,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Anxiety",1
+James Russo,34.0,Adult,Female,Other,B-,98.6,172,71,140.25,74.66,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Robert Miller,59.0,Adult,Male,Other,A+,98.0,158,113,175.1,89.17,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Shirley Mooney,36.0,Adult,Male,White,A+,98.1,146,102,153.9,42.49,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Hypertension, Allergies",1
+Christian Smith,77.0,Adult,Female,Black,A+,97.2,159,85,132.05,68.42,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Diabetes, Diabetes",1
+James Woods,75.0,Adult,Female,Hispanic,B+,98.0,138,62,199.48,99.85,General Checkup,0
+Debra Flores,,Unknown,Female,Black,AB-,98.3,99,95,134.88,76.7,Anxiety,1
+Jose Dawson,23.0,Adult,Female,White,B-,97.1,96,118,162.56,114.59,General Checkup,0
+Michael Stewart,58.0,Adult,Male,Other,O+,98.4,171,102,143.16,97.33,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Allergies, Asthma",1
+Jerry Vang,59.0,Adult,Female,Other,A-,97.8,105,105,181.34,92.63,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Jenna Townsend,1.0,Child,Female,Asian,A-,97.7,179,69,122.87,145.74,"Vaccination, Growth and development, Anxiety",1
+Elizabeth Smith,58.0,Adult,Female,Asian,O-,97.0,126,62,130.34,78.0,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Depression",1
+Denise Conrad,82.0,Adult,Female,White,B+,97.7,161,110,182.89,129.87,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Obesity",1
+Laura Garcia,47.0,Adult,Male,Other,O+,98.6,101,106,172.77,86.59,General Checkup,0
+Jose Cox,60.0,Adult,Female,Black,O+,98.3,97,90,128.93,50.47,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Diabetes, Depression",1
+Misty Stone,57.0,Adult,Female,White,AB-,98.8,167,82,187.03,133.23,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Anxiety, Allergies",1
+Anthony Erickson,16.0,Teenager,Male,Black,O-,97.5,158,64,154.74,140.59,"Acne and skin issues, Mental health challenges, Sexual health education, Obesity",1
+Jacqueline Scott,,Unknown,Male,Black,B+,98.8,148,65,157.56,96.3,General Checkup,0
+Jonathan Hernandez,60.0,Adult,Male,Hispanic,B+,98.2,116,92,155.85,105.76,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Obesity",1
+Jeremy Huber,12.0,Child,Female,White,O-,98.3,123,105,166.07,134.24,"Vaccination, Growth and development, Diabetes, Obesity, Asthma",1
+Rhonda Peterson,35.0,Adult,Male,White,A-,97.8,129,107,139.4,45.04,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Javier Payne,2.0,Child,Male,Other,A+,98.0,116,82,183.81,53.57,"Vaccination, Growth and development, Hypertension, Hypertension",1
+Jessica Sanchez,12.0,Child,Male,Black,AB-,98.5,169,106,173.46,137.55,"Vaccination, Growth and development, Diabetes, Anxiety",1
+Shawn Morgan,63.0,Adult,Female,Hispanic,A+,98.8,153,73,198.25,115.22,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Anxiety, Diabetes",1
+Billy Riley,90.0,Adult,Female,White,O-,98.7,101,72,195.35,135.22,General Checkup,0
+Taylor Craig,58.0,Adult,Male,Asian,AB+,97.6,92,68,177.84,98.73,General Checkup,0
+Tommy Gordon,18.0,Teenager,Female,Asian,B-,99.0,91,73,172.62,89.71,"Acne and skin issues, Mental health challenges, Sexual health education, Anxiety",0
+Jamie Wiggins,12.0,Child,Female,White,A+,98.9,158,78,160.33,85.66,"Vaccination, Growth and development",1
+Alexandra Wagner,7.0,Child,Male,White,B+,98.4,127,81,122.5,41.71,"Vaccination, Growth and development, Asthma, Anxiety",1
+Catherine Lewis,88.0,Adult,Male,Hispanic,B+,97.7,101,62,166.15,70.08,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Brandy Moreno,35.0,Adult,Female,Black,AB-,97.7,130,96,186.74,95.18,General Checkup,0
+Glenn Matthews,,Unknown,Female,White,B+,98.9,169,67,123.79,133.19,Asthma,1
+Richard May,78.0,Adult,Female,Black,O+,97.2,180,101,151.36,136.04,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Cynthia Alvarez,82.0,Adult,Male,Black,O+,97.5,99,111,192.4,72.32,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Allergies, Obesity",1
+Derrick Richards,62.0,Adult,Male,White,O-,99.0,176,102,186.79,66.45,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Anxiety",1
+Susan Rogers,12.0,Child,Male,Asian,A+,98.5,130,73,153.01,148.93,"Vaccination, Growth and development, Allergies, Diabetes",1
+Cynthia Greene,,Unknown,Male,Hispanic,A+,98.9,135,102,179.05,126.37,General Checkup,0
+Luke Murphy,39.0,Adult,Female,Asian,B-,98.6,142,77,154.66,141.16,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Depression, Anxiety",1
+Barbara Nguyen,32.0,Adult,Female,Black,A-,98.1,178,85,194.18,113.73,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Asthma, Hypertension",1
+Jean Mcneil,23.0,Adult,Female,Other,O-,97.3,112,119,172.99,81.43,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Obesity, Hypertension",1
+Carlos Bates,9.0,Child,Male,Hispanic,AB-,97.9,105,78,186.98,75.48,"Vaccination, Growth and development, Allergies",1
+Frank Wheeler,13.0,Teenager,Male,White,B+,97.4,125,62,163.54,55.89,"Acne and skin issues, Mental health challenges, Sexual health education, Obesity, Asthma, Diabetes",1
+Robert Johnson,25.0,Adult,Female,Hispanic,A+,97.7,155,86,142.45,123.14,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Asthma, Anxiety",1
+Benjamin Fowler,16.0,Teenager,Male,Hispanic,B+,98.1,113,85,187.49,68.28,"Acne and skin issues, Mental health challenges, Sexual health education",0
+John Miller,3.0,Child,Male,Black,A+,98.4,137,104,129.57,73.09,"Vaccination, Growth and development, Hypertension",1
+Brianna Anderson,16.0,Teenager,Male,Asian,AB-,98.7,168,93,141.04,45.4,General Checkup,0
+David Hudson,,Unknown,Female,Asian,B+,97.7,137,108,124.79,149.32,Depression,1
+James Mcbride,76.0,Adult,Male,White,O+,97.8,104,73,189.6,133.22,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Anxiety, Depression",1
+Jake Perez,72.0,Adult,Female,Asian,B-,98.7,117,81,130.65,135.69,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Obesity, Depression",1
+Kirk Flores Jr.,85.0,Adult,Female,Other,B-,97.1,147,63,144.37,75.08,General Checkup,0
+Daniel Porter,71.0,Adult,Female,White,B-,97.5,99,60,181.67,107.21,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Anxiety, Anxiety",1
+James Moore,48.0,Adult,Male,White,O+,98.1,163,105,134.03,138.82,General Checkup,0
+James Young,73.0,Adult,Male,Hispanic,A-,98.2,141,90,169.62,80.49,General Checkup,0
+Gavin Vance,33.0,Adult,Male,Other,A-,98.5,158,96,141.66,139.53,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity",1
+Derek Thomas,43.0,Adult,Male,White,A+,98.6,157,67,188.44,135.38,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety",1
+Dylan Harrell,3.0,Child,Male,Black,A+,97.6,129,97,188.33,52.36,"Vaccination, Growth and development",1
+Michael Kerr,79.0,Adult,Female,Black,AB+,98.0,113,85,140.95,148.66,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Monique Tyler,15.0,Teenager,Male,Other,A-,97.8,95,80,198.15,111.46,"Acne and skin issues, Mental health challenges, Sexual health education, Depression, Diabetes, Asthma",1
+Vincent Scott,55.0,Adult,Female,Other,A+,98.7,118,90,199.16,96.85,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Anthony White,89.0,Adult,Female,Black,O-,97.7,99,108,156.29,137.66,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Obesity, Anxiety",1
+Marcus Nguyen,63.0,Adult,Male,Black,B+,98.6,156,95,141.38,128.88,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Anxiety",1
+Martin Norris,48.0,Adult,Female,Asian,B-,97.1,125,99,130.38,55.79,General Checkup,0
+Colleen Howard DVM,24.0,Adult,Male,Asian,AB-,97.0,157,116,191.4,59.96,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Erica Carter,83.0,Adult,Female,Asian,AB+,98.6,163,120,162.74,135.62,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Anxiety",1
+Nicole Brown,88.0,Adult,Male,Hispanic,A-,97.8,92,117,161.76,47.99,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Stephanie Sims,4.0,Child,Female,Hispanic,A+,97.1,123,89,123.61,74.56,General Checkup,0
+Kenneth Taylor,21.0,Adult,Female,Hispanic,B-,98.6,100,79,172.51,57.27,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Yvonne Woodard,49.0,Adult,Male,Asian,A+,97.4,162,83,150.18,138.75,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Matthew Shepard,55.0,Adult,Male,White,B-,98.9,142,97,173.09,67.51,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Diabetes",1
+Susan Long,45.0,Adult,Male,Other,AB+,97.4,136,118,190.87,71.44,General Checkup,0
+Stephen Schmitt,46.0,Adult,Female,Hispanic,B-,98.8,137,117,127.62,42.03,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity",1
+Alicia Smith,90.0,Adult,Female,Hispanic,O-,97.0,155,99,176.75,95.96,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Hypertension",1
+Henry Hall,73.0,Adult,Male,Other,AB-,98.8,166,106,199.51,131.96,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Anxiety, Asthma",1
+Logan Parrish,59.0,Adult,Male,Black,A+,97.5,99,102,141.34,94.1,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Anxiety",1
+Anthony Mclean,80.0,Adult,Male,Hispanic,AB-,97.3,135,101,170.41,46.24,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Lisa Long,74.0,Adult,Male,Black,AB-,97.1,136,84,192.54,96.08,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Christopher Reynolds,58.0,Adult,Female,Hispanic,B-,98.6,109,84,168.29,42.2,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Alan Schmidt,56.0,Adult,Female,Other,B-,97.8,97,104,160.3,128.57,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes",1
+Joshua Rodgers,61.0,Adult,Male,Other,O+,98.9,154,119,184.99,117.42,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Depression, Obesity",1
+Evelyn Norton,,Unknown,Male,Asian,AB+,97.3,141,62,195.48,50.6,General Checkup,0
+Brian Gordon,77.0,Adult,Female,Hispanic,AB+,97.0,94,105,193.4,42.96,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Karla Wilson,87.0,Adult,Male,Asian,A+,97.1,102,61,133.96,90.04,General Checkup,0
+Michael Nelson,4.0,Child,Male,Black,O-,98.9,124,63,143.91,45.4,"Vaccination, Growth and development, Diabetes, Allergies, Obesity",1
+David Ortiz,27.0,Adult,Male,Other,A+,98.7,172,91,182.48,85.17,General Checkup,0
+Elizabeth Pope,64.0,Adult,Male,Asian,A+,97.5,157,89,185.57,120.72,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Diabetes",1
+Lauren Russo,6.0,Child,Male,Black,A+,98.9,170,81,142.22,126.43,"Vaccination, Growth and development",1
+Kristin Sutton,80.0,Adult,Female,Black,O+,97.0,152,69,139.23,121.2,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Bryan Cruz,34.0,Adult,Female,Hispanic,AB+,98.6,172,91,184.4,44.42,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Allergies",1
+Richard Stevenson,1.0,Child,Female,White,AB+,97.5,133,99,170.38,146.18,"Vaccination, Growth and development, Asthma, Allergies, Hypertension",1
+Johnathan French PhD,54.0,Adult,Female,Hispanic,AB-,98.5,131,118,183.0,129.09,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Obesity",1
+Kevin Johnson,9.0,Child,Male,Black,A-,98.4,132,75,143.27,129.23,"Vaccination, Growth and development",1
+Maria Cruz,24.0,Adult,Male,Other,B+,98.1,130,108,136.26,50.27,General Checkup,0
+Jordan Weaver,84.0,Adult,Male,White,B-,97.1,151,68,193.76,58.14,General Checkup,0
+Tonya Ramirez,50.0,Adult,Male,White,O-,97.3,137,92,130.67,97.37,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression",1
+Arthur Rice,29.0,Adult,Female,Hispanic,A-,98.6,179,99,190.22,140.98,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension",1
+Patricia Rogers,13.0,Teenager,Male,White,AB+,97.3,177,104,160.28,49.35,"Acne and skin issues, Mental health challenges, Sexual health education, Depression, Asthma",1
+Nicholas Solomon,84.0,Adult,Female,White,B+,98.0,158,99,134.67,46.14,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Asthma, Depression",1
+Kristen Johnson,26.0,Adult,Male,Other,B+,97.2,165,80,121.17,111.99,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Depression",1
+James Miller,25.0,Adult,Female,Other,O+,98.7,100,112,188.96,95.38,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Allergies",1
+Laura Stout DDS,47.0,Adult,Male,Other,AB-,97.3,109,89,178.59,51.09,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity",0
+Robin Barber,88.0,Adult,Male,White,A+,97.1,175,74,151.03,137.13,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Obesity",1
+Colleen Johnson,13.0,Teenager,Female,Asian,B-,98.1,170,77,168.68,100.67,"Acne and skin issues, Mental health challenges, Sexual health education, Obesity, Diabetes, Diabetes",1
+Andrea Briggs,6.0,Child,Male,White,O+,97.7,158,99,133.21,49.51,"Vaccination, Growth and development, Obesity, Hypertension, Anxiety",1
+Jesse Barry,5.0,Child,Female,Black,A+,97.3,124,117,137.14,124.87,"Vaccination, Growth and development, Diabetes, Anxiety",1
+Jennifer Gill,14.0,Teenager,Female,Black,B+,97.7,180,115,172.01,95.01,"Acne and skin issues, Mental health challenges, Sexual health education, Anxiety, Obesity, Depression",1
+Charles Brown,46.0,Adult,Male,Other,A+,97.0,176,117,139.36,127.6,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Richard Chavez,38.0,Adult,Male,Other,O-,97.3,115,120,193.33,68.67,General Checkup,0
+Melissa Gonzales,15.0,Teenager,Male,Black,B+,98.0,152,68,187.14,113.33,General Checkup,0
+Theresa Brown,49.0,Adult,Male,White,AB+,97.3,136,65,192.67,129.86,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Kathryn Smith,59.0,Adult,Male,Black,B-,98.3,98,79,199.64,56.81,General Checkup,0
+Marc Hays,6.0,Child,Male,White,A-,98.5,180,63,134.94,74.46,"Vaccination, Growth and development, Asthma, Hypertension, Diabetes",1
+Brianna Miller,4.0,Child,Female,Hispanic,O-,99.0,120,88,180.54,87.12,"Vaccination, Growth and development, Anxiety, Allergies",1
+Gregory Cameron,13.0,Teenager,Male,Black,A+,97.4,142,77,148.75,46.02,"Acne and skin issues, Mental health challenges, Sexual health education, Asthma, Diabetes",1
+Charles Raymond,48.0,Adult,Male,Hispanic,B+,97.7,157,100,139.72,78.04,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Asthma, Obesity",1
+Steven Howard,72.0,Adult,Female,Hispanic,AB+,98.0,161,89,180.97,43.97,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Allergies, Anxiety",1
+William Morales,82.0,Adult,Male,Hispanic,B+,98.6,128,76,175.23,76.35,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Depression",1
+Stephanie Maldonado,70.0,Adult,Female,Other,AB+,98.0,126,70,141.08,98.54,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Obesity",0
+Mary Pruitt,85.0,Adult,Male,Hispanic,O-,99.0,139,115,156.46,62.85,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Obesity",1
+Adam Lowe,74.0,Adult,Female,Other,A-,97.5,120,84,126.7,122.41,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Diabetes, Asthma",1
+Joseph Robinson,39.0,Adult,Female,Asian,B-,98.7,124,109,199.54,109.13,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Diabetes, Diabetes",1
+Thomas Rice,78.0,Adult,Male,Black,B-,98.0,116,80,156.43,76.66,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety",0
+Ricardo Dalton,52.0,Adult,Male,White,O-,98.7,158,79,197.26,40.85,General Checkup,0
+Allison Mckay,89.0,Adult,Female,Asian,B-,97.2,127,110,168.22,126.6,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes, Depression",1
+Bruce Bennett,13.0,Teenager,Male,White,O+,98.6,98,89,145.76,121.46,General Checkup,0
+Bryan Lee,87.0,Adult,Male,Black,AB-,97.2,111,64,123.64,120.33,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma",1
+Lisa Cooper,58.0,Adult,Female,White,AB+,98.4,139,107,149.15,99.75,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Andrew Edwards,42.0,Adult,Male,White,A-,98.9,177,113,191.91,144.7,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Depression",1
+Dakota Williams,14.0,Teenager,Male,White,A-,97.7,104,91,128.98,78.86,"Acne and skin issues, Mental health challenges, Sexual health education, Anxiety",1
+Michael Ramsey,63.0,Adult,Male,Other,O-,99.0,128,60,151.73,116.43,General Checkup,0
+Daniel Fox,16.0,Teenager,Male,Asian,AB-,98.6,111,80,121.09,40.81,"Acne and skin issues, Mental health challenges, Sexual health education, Asthma, Asthma, Obesity",1
+Allison Mclean,7.0,Child,Female,Asian,AB-,98.2,128,70,156.63,62.17,"Vaccination, Growth and development, Depression, Anxiety",1
+Jennifer Kelly,9.0,Child,Female,White,O-,98.2,122,108,123.92,42.36,"Vaccination, Growth and development, Asthma",1
+Charles Davis II,44.0,Adult,Female,Asian,B-,97.7,104,98,195.0,131.27,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Asthma, Anxiety",1
+Jose Hall,57.0,Adult,Female,Hispanic,A+,97.6,121,86,173.65,56.65,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Asthma, Diabetes",1
+Alyssa Hart,65.0,Adult,Male,Black,AB-,98.7,97,105,164.93,85.16,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies",1
+Christina Matthews,,Unknown,Male,Asian,AB-,98.2,141,102,185.23,118.23,"Asthma, Diabetes",1
+John Larson,82.0,Adult,Male,Black,B+,98.3,138,101,181.92,96.64,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Hypertension",1
+James Torres,32.0,Adult,Male,Hispanic,O+,97.0,97,102,163.93,56.32,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety",1
+Michael Walker,56.0,Adult,Male,Other,AB-,98.6,179,87,148.88,123.96,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Obesity, Asthma",1
+Michelle Evans,3.0,Child,Female,Hispanic,O+,97.3,101,88,196.67,44.35,"Vaccination, Growth and development, Depression, Asthma",1
+Ashley Tran,,Unknown,Male,Hispanic,B+,97.6,94,78,171.66,83.56,Allergies,1
+Mark Kramer,89.0,Adult,Male,Black,O+,98.3,133,104,193.41,127.12,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Karen Smith,62.0,Adult,Male,Black,AB+,97.8,155,64,151.95,145.76,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Diabetes, Asthma",1
+Lee Potter,,Unknown,Male,Black,O-,98.8,116,94,183.18,98.49,"Depression, Obesity",1
+Debra Ramirez,81.0,Adult,Female,Hispanic,A-,97.6,117,85,162.49,136.68,General Checkup,0
+Cheryl Grant,26.0,Adult,Male,Black,O-,98.3,96,97,173.82,53.56,General Checkup,0
+Cameron Marsh Jr.,82.0,Adult,Female,White,AB+,97.2,121,76,185.45,101.29,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Asthma, Obesity",1
+Robert Zhang,68.0,Adult,Female,Other,A-,98.5,180,99,143.11,142.57,General Checkup,0
+Hannah Johnson,1.0,Child,Female,Asian,AB-,98.9,170,105,166.46,55.64,"Vaccination, Growth and development",1
+Joan Snyder,,Unknown,Female,Other,B+,98.6,164,74,135.43,85.08,"Obesity, Depression, Anxiety",1
+Jennifer Compton,57.0,Adult,Male,Black,AB-,98.3,114,81,196.86,96.31,General Checkup,0
+Michelle Weber,10.0,Child,Male,Asian,A-,97.4,105,113,129.45,108.06,"Vaccination, Growth and development, Depression",1
+Marissa Hill,69.0,Adult,Female,Other,O-,98.4,110,83,168.68,74.34,General Checkup,0
+William Stewart,48.0,Adult,Female,Other,A-,98.1,132,60,174.8,75.37,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Allergies, Asthma",1
+Richard Walters,14.0,Teenager,Female,Hispanic,O+,98.7,108,93,166.81,58.12,General Checkup,0
+Sandra Everett,24.0,Adult,Male,Hispanic,A+,98.2,167,73,195.77,103.75,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety, Asthma, Anxiety",1
+Edgar Wilson,49.0,Adult,Female,Other,B+,99.0,130,70,192.06,95.63,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Depression",1
+Amy Andrews,69.0,Adult,Female,White,A-,97.8,122,77,162.79,141.99,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Hypertension",1
+Louis Hines,54.0,Adult,Male,White,AB-,98.8,138,63,174.6,60.06,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",0
+Max Walton,15.0,Teenager,Female,Other,A-,98.1,162,96,179.07,125.33,General Checkup,0
+Rebecca Howard,31.0,Adult,Female,Black,O+,97.0,113,112,175.41,146.94,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Obesity",1
+Nicole Sutton,45.0,Adult,Male,White,AB+,97.9,163,62,156.6,107.26,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Hypertension, Diabetes",1
+Mary Edwards,71.0,Adult,Female,Hispanic,O-,98.3,132,116,175.45,58.09,General Checkup,0
+David Oliver,75.0,Adult,Female,White,O-,98.0,96,86,177.92,102.96,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Catherine Gibson,46.0,Adult,Female,Asian,O-,98.7,121,116,141.17,143.91,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Amanda Campos,78.0,Adult,Male,Asian,AB-,97.7,171,76,135.72,52.07,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Hypertension, Depression, Anxiety",1
+Nathan Mclean,3.0,Child,Female,White,A+,97.3,91,79,138.35,114.93,"Vaccination, Growth and development, Asthma",1
+Nicole Smith,14.0,Teenager,Male,White,AB-,97.2,128,102,160.1,120.57,"Acne and skin issues, Mental health challenges, Sexual health education, Diabetes, Allergies",1
+Ana Smith,83.0,Adult,Female,Other,O-,97.5,127,113,164.48,62.34,General Checkup,0
+Vanessa Cervantes,43.0,Adult,Male,White,O-,97.8,144,73,147.83,89.52,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Obesity, Asthma, Obesity",1
+Mr. Alex Williams,4.0,Child,Male,Other,B+,97.6,161,65,190.64,48.48,"Vaccination, Growth and development, Depression",1
+Daniel Barr,11.0,Child,Female,Hispanic,O-,97.9,121,104,169.39,145.17,"Vaccination, Growth and development, Depression, Depression",1
+Jerome Lam,4.0,Child,Female,Asian,AB+,98.7,98,94,168.11,129.86,"Vaccination, Growth and development, Asthma",1
+Steven Chavez,16.0,Teenager,Male,Asian,O-,98.3,151,108,185.88,149.93,"Acne and skin issues, Mental health challenges, Sexual health education, Diabetes",1
+Tara Obrien,33.0,Adult,Male,White,B-,98.5,126,105,162.68,52.39,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling",1
+Margaret Wheeler,80.0,Adult,Female,Hispanic,A+,97.7,159,83,132.29,148.18,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Anxiety",1
+Samantha Sawyer,,Unknown,Male,Hispanic,O+,97.1,126,60,172.43,60.62,Anxiety,0
+Richard Perez,58.0,Adult,Male,White,A-,98.3,155,74,163.94,103.98,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Depression, Depression, Asthma",1
+Jill Blackwell,28.0,Adult,Female,Other,O-,97.6,124,62,165.12,83.81,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Asthma, Depression, Hypertension",1
+Stacy Gallegos,36.0,Adult,Female,Black,A+,97.9,159,68,162.34,136.16,"Chronic diseases management, Heart health monitoring, Diet and exercise counseling, Diabetes",1
+Natalie Curtis,15.0,Teenager,Female,Asian,AB+,98.0,97,69,182.38,55.07,"Acne and skin issues, Mental health challenges, Sexual health education",0
+Taylor Meyer,21.0,Adult,Male,Hispanic,A+,97.6,119,112,185.71,117.14,General Checkup,0
+Erin Morales,89.0,Adult,Male,Hispanic,A+,98.3,93,84,144.21,109.79,General Checkup,0
+Gary Harper,1.0,Child,Male,Asian,B+,98.0,128,81,194.56,77.49,General Checkup,0
